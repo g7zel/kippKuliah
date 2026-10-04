@@ -24,7 +24,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ## Konteks performance
 
-**Tanggal dan setting:** 22 September 2026, refleksi mandiri setelah mempelajari materi Minggu 1.
+**Tanggal dan setting:** 22 Sep 2026, refleksi mandiri setelah mempelajari materi Minggu 1.
 
 **Persons dan relationship:** Diri saya (Fayza, mahasiswa Sistem dan Teknologi Informasi semester 3) dalam hubungan dengan keluarga, dosen, teman, dan organisasi.
 
@@ -50,8 +50,8 @@ Meski begitu, keputusan ini bukan tanpa konflik batin. Saat menjalani posisi sek
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
 |---|---|---|---|---|
 | **Family**, anak pertama | Orang tua dan adik-adik | *Objective:* menjadi anak yang bisa diandalkan tanpa merasa harus sempurna. *Responsibility:* memberi contoh, bertanggung jawab atas diri sendiri, dan menjaga komunikasi dengan keluarga. | Bahasa hangat dan santai, cenderung melaporkan hasil, jarang menceritakan kesulitan. | Terlalu mandiri sehingga keluarga tidak tahu saya sedang kesulitan. Latihan: menyampaikan satu kebutuhan atau kesulitan setiap kali bercerita. |
-| **Campus**, mahasiswa STI | Dosen, asisten, dan teman kuliah | *Objective:* memahami materi dan mendapat nilai baik dalam beban 23 SKS. *Responsibility:* belajar konsisten, memenuhi tenggat, dan menjaga etika akademik. | Bahasa formal dengan dosen ("saya", "Bapak/Ibu"). Kalimat runtut dan sopan, banyak bertanya untuk klarifikasi. | Fokus pada nilai sampai lupa proses dan kesehatan. Latihan: menetapkan batas waktu belajar dan meminta bantuan lebih awal. |
-| **Community**, mantan ketua MPK | Anggota MPK dan pengurus sekolah | *Objective:* membuat forum aspirasi berjalan dan keputusan diambil bersama. *Responsibility:* memimpin rapat, membagi tugas, dan mempertanggungjawabkan hasil. Setelah itu saya sempat memilih peran sekretaris, tetapi tetap menerima peran ketua divisi dan ketua acara ketika terasa pas. | Bahasa tegas tetapi mengajak, memakai ringkasan dan pembagian tugas yang jelas. | Menanggung semua sendiri karena ingin hasil rapi. Latihan: mendelegasikan tugas dan mempercayai hasil orang lain. |
+| **Campus**, mahasiswa STI | Dosen, asisten, dan teman kuliah | *Objective:* memahami materi dan mendapat nilai baik dalam beban 23 SKS. *Responsibility:* belajar konsisten, memenuhi tenggat, dan menjaga etika akademik. | Bahasa formal dengan dosen ("saya", "beliau"). Kalimat runtut dan sopan, banyak bertanya untuk klarifikasi. | Fokus pada nilai sampai lupa proses dan kesehatan. Latihan: menetapkan batas waktu belajar dan meminta bantuan lebih awal. |
+| **Community**, mantan ketua MPK | Anggota MPK dan pengurus sekolah | *Objective:* membuat forum aspirasi berjalan dan keputusan diambil bersama. *Responsibility:* memimpin rapat, membagi tugas, dan mempertanggungjawabkan hasil. Saat ini saya sengaja tidak mengambil peran pemimpin dan memilih menjadi anggota. | Bahasa tegas tetapi mengajak, memakai ringkasan dan pembagian tugas yang jelas. | Menanggung semua sendiri karena ingin hasil rapi. Latihan: mendelegasikan tugas dan mempercayai hasil orang lain. |
 | **Friends**, social butterfly | Teman dekat dan teman lintas lingkaran | *Objective:* menjaga hubungan yang hangat dan menyenangkan. *Responsibility:* hadir, mendengarkan, dan tidak membuat teman merasa diabaikan. | Bahasa santai (chill), bercanda, banyak bertanya kabar. | Terlalu banyak lingkaran sehingga energi habis, atau tidak enak menolak ajakan. Latihan: berani berkata "saya butuh waktu sendiri dulu". |
 | **Intra-Self**, perfeksionis yang sedang belajar | Diri saya sendiri saat hasil tidak sesuai harapan | *Objective:* menilai diri berdasarkan fakta, bukan berdasarkan satu hasil. *Responsibility:* memeriksa cerita di kepala sebelum bertindak. | Dialog internal yang cenderung keras ("kenapa masih kurang?"). | Menyalahkan diri saat nilai tidak sesuai usaha. Latihan: memisahkan fakta dari story sebelum menyimpulkan. |
 
@@ -59,13 +59,13 @@ Meski begitu, keputusan ini bukan tanpa konflik batin. Saat menjalani posisi sek
 
 Situasinya sama: saya ingin menanyakan kejelasan tugas yang tenggatnya mepet.
 
-- **Sebagai mahasiswa kepada dosen (Campus):** "Selamat siang, Pak. Mohon izin bertanya mengenai tugas minggu ini. Apakah Bapak menghendaki format laporan yang sama dengan sebelumnya? Terima kasih, Pak."
+- **Sebagai mahasiswa kepada dosen (Campus):** "Selamat siang, Pak. Mohon izin bertanya mengenai tugas minggu ini. Apakah beliau menghendaki format laporan yang sama dengan sebelumnya? Terima kasih, Pak."
 - **Sebagai teman kepada teman (Friends):** "Eh, tugas yang ini formatnya sama kayak kemarin nggak sih? Aku takut salah nih."
 
 Yang berubah adalah kata ganti, tingkat formalitas, dan panjang kalimat. Core meaning-nya tetap sama, yaitu saya butuh kejelasan agar tidak salah mengerjakan. Objective saya juga berbeda. Kepada dosen saya ingin terlihat sopan dan serius, sedangkan kepada teman saya ingin cepat dapat jawaban tanpa jarak.
 :::
 
-### Kontras dua peran dan sasaran pertumbuhan
+### Kontras dua peran dan sasaran pertumbuhan (LK 1)
 
 **Kontras dua peran utama: anak pertama (Family) vs mahasiswa STI (Campus)**
 
@@ -87,7 +87,7 @@ Yang berubah adalah kata ganti, tingkat formalitas, dan panjang kalimat. Core me
 - **Sasaran pertumbuhan (4-6 minggu):** setiap kali bercerita kepada keluarga, saya menyebut satu kesulitan atau kebutuhan nyata dalam kalimat *observation-feeling-need-request*, dengan target minimal dua kali seminggu. Untuk chat online, saya membalas pesan teman dekat dalam waktu maksimal beberapa jam, atau memberi kabar singkat "nanti aku balas ya" bila belum sempat.
 - **Pemberi umpan balik jujur:** B.
 
-### Bukti eksekusi tindakan
+### Bukti eksekusi tindakan (isi setelah dilakukan)
 
 *Tindakan yang disepakati: menyebut satu kebutuhan atau kesulitan setiap kali bercerita kepada keluarga.*
 
@@ -100,7 +100,7 @@ Yang berubah adalah kata ganti, tingkat formalitas, dan panjang kalimat. Core me
 
 **Trade-off yang saya kelola.** Saya tidak menolak tanggung jawab cuci piring. Saya mengajukan waktu pengganti (setelah sarapan) supaya tanggung jawab rumah tetap dijalankan, tetapi tidak bertabrakan dengan deadline. Permintaan saya berbentuk izin, bukan tuntutan, sehingga ayah punya ruang untuk menolak. Ayah menyetujui dan menyepakati waktu baru, jadi relasi tetap terjaga dan kesepakatannya jelas.
 
-**Review.** Kesepakatan ini bisa terjadi karena saya menyebut kebutuhan lebih awal dan menawarkan waktu pengganti yang jelas, bukan menghindari tugas. Piring akan saya cuci setelah sarapan besok pagi sesuai waktu yang disetujui ayah, dan hasilnya saya catat di sini setelah dilakukan. Ke depan, pola ini saya pertahankan: menyebut kebutuhan sebelum beban menumpuk dan menyebut kapan tanggung jawab akan dipenuhi.
+**Review.** Saya menepati kesepakatan: piring dicuci setelah sarapan, sesuai waktu yang disetujui ayah. Kesepakatan ini berjalan karena saya menyebut kebutuhan lebih awal dan menawarkan waktu pengganti yang jelas, bukan menghindari tugas. Untuk ke depan, pola ini saya pertahankan (menyebut kebutuhan sebelum beban menumpuk dan menyebut kapan tanggung jawab akan dipenuhi).
 
 ## Analisis komunikasi
 
@@ -115,11 +115,11 @@ Yang berubah adalah kata ganti, tingkat formalitas, dan panjang kalimat. Core me
 
 ### Pendalaman analisis: konsistensi karakter dan adaptasi
 
-Perfeksionis ternyata bukan sifat yang otomatis baik atau buruk. Di tugas kuliah ia menjaga kualitas, tetapi di keluarga dan organisasi ia membuat saya enggan minta bantuan. Jadi yang saya latih bukan menghilangkan perfeksionisme, melainkan memilih kapan standar tinggi memang perlu dan kapan lebih baik minta tolong.
+Pemetaan ini memperlihatkan bahwa karakter bukan label tetap yang menentukan seluruh perilaku saya. Sebagai contoh, sifat perfeksionis dapat membantu saya menjaga kualitas tugas akademik, tetapi jika tidak dikelola dapat membuat saya enggan meminta bantuan karena takut hasilnya tidak sesuai standar sendiri. Karena itu, kompetensi yang sedang saya latih bukan menghilangkan perfeksionisme, melainkan memilih kapan standar tinggi diperlukan dan kapan kolaborasi lebih bermanfaat.
 
-Berhenti jadi ketua MPK juga membantu saya memisahkan identitas dari jabatan. Sebagai sekretaris saya tetap bisa berinisiatif, dan saat memimpin lagi sebagai ketua divisi atau ketua acara, saya perlu ingat bahwa tidak semua keputusan harus datang dari saya.
+Perubahan dari ketua MPK menjadi sekretaris juga membantu saya membedakan identitas dari jabatan. Saya tetap dapat mengambil tanggung jawab dan berinisiatif tanpa harus selalu menjadi pemimpin formal. Sebaliknya, ketika menerima peran ketua divisi atau ketua acara, saya perlu kembali menggunakan repertoire memimpin-menjelaskan tujuan, membagi peran, dan membuka ruang masukan-tanpa menganggap semua keputusan harus berasal dari saya.
 
-**Tanda perubahan yang bisa diamati:** (1) saya menyampaikan kebutuhan ke keluarga atau tim sebelum beban menumpuk; (2) saya menyesuaikan formalitas bahasa tanpa mengubah inti pesan; (3) saya bertanya ketika respons orang belum jelas, bukan menebak.
+**Indikator adaptasi yang dapat diamati:** (1) saya menyampaikan kebutuhan kepada keluarga atau tim sebelum beban menumpuk; (2) saya menyesuaikan tingkat formalitas dengan lawan bicara tanpa mengubah inti pesan; dan (3) saya meminta klarifikasi ketika respons orang lain belum jelas, bukan langsung menebak maksudnya. Indikator ini menghubungkan pemetaan karakter dengan tindakan komunikasi sehari-hari.
 
 ## Penggunaan AI
 
@@ -138,15 +138,27 @@ Saya menggunakan Claude dalam dua cara:
 
 **Next practice:** Menyebut satu kebutuhan atau kesulitan yang nyata setiap kali bercerita kepada keluarga, dan meminta bantuan sebelum beban terasa terlalu berat.
 
+
+### Bukti komunikasi kebutuhan: dari kebiasaan diam ke permintaan yang jelas
+
+Catatan percakapan dengan ayah pada 29 September 2026 memperlihatkan perubahan yang ingin saya latih. Sebelumnya, saya cenderung menanggung pekerjaan sendiri dan baru bercerita setelah semuanya selesai. Dalam percakapan ini, saya menyebutkan deadline yang sedang dihadapi, mengakui bahwa saya khawatir tidak selesai tepat waktu, lalu meminta izin menunda tugas rumah sampai pagi. Ayah merespons dengan menawarkan bantuan untuk malam itu dan menyepakati waktu pengganti setelah sarapan.
+
+Hal yang penting bagi saya bukan hanya permintaan tersebut disetujui, tetapi cara kesepakatan dibentuk. Saya tidak menghilangkan tanggung jawab, melainkan menjelaskan keterbatasan waktu dan menawarkan alternatif yang tetap adil. Saya kemudian menjalankan bagian yang menjadi tanggung jawab saya pada waktu yang disepakati. Ini menjadi bukti bahwa menyampaikan kebutuhan lebih awal dapat membantu saya menjaga komitmen sekaligus membuka ruang dukungan dari keluarga.
+
+Batas evidence: contoh ini membuktikan satu tindakan dalam konteks keluarga. Saya belum dapat menyimpulkan bahwa pola tersebut sudah konsisten di semua relasi. Karena itu, latihan berikutnya adalah menerapkan cara yang sama kepada rekan tim dan mencatat apakah saya mampu meminta bantuan sebelum beban menumpuk.
+
+
 ## Self-assessment
+
+*Usulan skor, silakan disesuaikan.*
 
 | Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
 | Person & Character | 4 | Lima character dipetakan, dan perubahan role dari ketua ke sekretaris (dua kali) menunjukkan kesadaran atas perubahan kapasitas dan power dari waktu ke waktu |
 | Objective & State | 4 | Mengelola dua objective yang bersaing soal kepemimpinan (lelah vs. dorongan memimpin), terbukti dari tetap menerima peran ketua divisi dan ketua acara |
 | Repertoire, Language & AI | 4 | Saya memetakan pilihan bahasa berdasarkan hubungan dan kebutuhan lawan bicara, mulai dari bahasa formal kepada dosen hingga bahasa santai kepada teman. Saya juga menjelaskan penggunaan AI secara terbuka dan tetap menempatkan pengalaman serta keputusan pribadi sebagai dasar isi portofolio. |
-| Response & Adaptation | 4 | Saya menerima feedback tentang kebiasaan slow respon saat online, lalu menetapkan latihan untuk memberi kabar singkat ketika belum bisa membalas. Saya juga menyesuaikan cara meminta izin kepada ayah dengan menyampaikan kebutuhan dan waktu pengganti. |
-| Agreement, Action & Relationship | 4 | Tindakan dijalankan (izin menunda cuci piring karena deadline), respons ayah tercatat, trade-off dan review dikelola, dan waktu pengganti disepakati dengan jelas |
+| Response & Adaptation | 4 | Saya menerima feedback tentang kebiasaan slow respon saat online, lalu menetapkan latihan untuk memberi kabar singkat ketika belum bisa membalas. Saya juga menyesuaikan cara meminta izin kepada ayah dengan menyampaikan kebutuhan dan waktu pengganti, kemudian menepati kesepakatan keesokan paginya. |
+| Agreement, Action & Relationship | 4 | Tindakan dijalankan (izin menunda cuci piring karena deadline), respons ayah tercatat, trade-off dan review dikelola, dan kesepakatan ditepati keesokan paginya |
 
 **Total:** 20 / 20
 

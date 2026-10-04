@@ -24,7 +24,7 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 
 ## Konteks performance
 
-**Tanggal dan setting:** 20 September 2026, sesi evaluasi tim (retro) bersama Kei dan Aya setelah mengikuti Business Case Competition, di mana tim kami berhasil masuk top 5 dari seluruh peserta.
+**Tanggal dan setting:** 20 september 2026, sesi evaluasi tim (retro) bersama Kei dan Aya setelah mengikuti Business Case Competition, di mana tim kami berhasil masuk top 5 dari seluruh peserta.
 
 **Persons dan relationship:** Saya, Kei, dan Aya adalah satu tim di kompetisi tersebut. Kami saling mewawancarai satu sama lain, jadi discovery ini bersifat dua arah, bukan satu pewawancara-satu narasumber.
 
@@ -52,8 +52,6 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 3. (lanjutan dari jawaban Kei) Apa yang membuat penyusunan solusi jadi lama?
 
 ### Transcript percakapan
-
-*Transcript ini adalah bagian diskusi setelah suasana mereda (lihat bagian ketegangan di bawah).*
 
 > **Aya:** "Kita perlu evaluasi."
 > **Fay dan Kei:** "Oke, ayok."
@@ -84,7 +82,7 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 
 ### Ketegangan dan peran menengahi
 
-Sebelum percakapan di transcript, sesi evaluasi ini sempat tegang. Kami sampai saling berdebat tentang apa inti permasalahan sebenarnya, karena masing-masing merasa sudah mengerjakan bagiannya mati-matian tetapi hasilnya tidak juara. Dalam situasi ini saya yang biasanya menengahi. Cara saya adalah mencoba melihat setiap pendapat dari sudut pandang orang yang menyampaikannya, dan memahami apa yang sebenarnya ada di kepala mereka sebelum menyimpulkan siapa yang "benar". Pendekatan ini yang membantu diskusi bergerak dari saling mempertahankan pendapat menjadi menemukan root cause bersama.
+Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampai saling berdebat tentang apa inti permasalahan sebenarnya, karena masing-masing merasa sudah mengerjakan bagiannya mati-matian tetapi hasilnya tidak juara. Dalam situasi ini saya yang biasanya menengahi. Cara saya adalah mencoba melihat setiap pendapat dari sudut pandang orang yang menyampaikannya, dan memahami apa yang sebenarnya ada di kepala mereka sebelum menyimpulkan siapa yang "benar". Pendekatan ini yang membantu diskusi bergerak dari saling mempertahankan pendapat menjadi menemukan root cause bersama.
 :::
 
 ## Analisis komunikasi
@@ -100,7 +98,7 @@ Sebelum percakapan di transcript, sesi evaluasi ini sempat tegang. Kami sampai s
 
 ### Shared problem statement yang dikonfirmasi
 
-*Versi formula (slide):* Tim (Fayza, Kei, Aya) mengalami penyusunan solusi yang dilakukan sendiri-sendiri, yang menyebabkan integrasi ide lama, revisi banyak, dan pengerjaan pitch mepet deadline, dalam constraint waktu kompetisi yang terbatas. Kami sepakat hasil yang dibutuhkan adalah pemahaman masalah dan solusi yang sama sejak awal, tanpa langsung menentukan solusi tindakannya.
+*Versi formula (slide):* Tim (Fayza, Kei, Aya) mengalami penyusunan solusi yang dilakukan sendiri-sendiri, yang menyebabkan integrasi ide lama, revisi banyak, dan pengerjaan pitch mepet deadline, dalam constraint waktu kompetisi yang terbatas. Kami sepakat hasil yang dibutuhkan adalah pemahaman masalah dan solusi yang sama sejak awal, belum menentukan solution.
 
 *Versi awal:*
 
@@ -126,11 +124,11 @@ Dalam kerja kelompok, A sangat lambat dan selalu mengerjakan milestone mepet dea
 
 ### Pendalaman analisis: kualitas discovery dan kesepakatan tim
 
-Awalnya saya mengira masalahnya cuma deadline yang mepet. Setelah bertanya "kenapa awalnya mepet?", terlihat bahwa mepet hanyalah gejala. Penyebabnya, kami mengembangkan ide sendiri-sendiri sebelum menyamakan pemahaman.
+Proses discovery mengubah fokus evaluasi dari gejala yang terlihat-pitch deck selesai mendekati tenggat-ke proses yang menghasilkan gejala tersebut, yaitu ide solusi dikembangkan secara terpisah sebelum tim menyamakan pemahaman. Perbedaan ini penting karena solusi yang hanya menargetkan kecepatan kerja belum tentu menyelesaikan kebutuhan koordinasi. Pertanyaan lanjutan membantu menguji asumsi awal dan menghindari kesimpulan yang terlalu cepat.
 
-Di akhir sesi kami baru sepakat soal masalah dan hasil yang diinginkan, belum soal solusi final. Saya sengaja menahan diri untuk tidak melompat ke solusi sebelum Kei dan Aya sama-sama merasa masalahnya sudah tepat.
+Rumusan masalah bersama juga perlu dibedakan dari keputusan tentang solusi. Pada tahap ini, tim sudah menyepakati masalah dan hasil yang diinginkan, tetapi belum menetapkan satu solusi final. Menjaga batas tersebut membantu tim tidak melompat ke tindakan sebelum semua anggota memiliki pemahaman yang sama.
 
-Kesepakatan ini bisa dicek di kompetisi berikutnya: diskusi inti dilakukan segera setelah case rilis, pembagian tugas baru setelah arah solusi selaras, dan latihan pitch dimulai minimal dua hari sebelum hari-H.
+Kesepakatan tindak lanjut dapat dievaluasi melalui tiga indikator: diskusi inti dilakukan segera setelah case dirilis; pembagian tugas baru dilakukan setelah pemahaman masalah dan arah solusi diselaraskan; serta latihan pitching dimulai setidaknya dua hari sebelum presentasi. Indikator ini membuat evaluasi kompetisi berikutnya lebih objektif. Jika hasil belum membaik, tim dapat meninjau kembali proses tanpa menyalahkan satu anggota.
 
 ## Penggunaan AI
 
@@ -143,11 +141,25 @@ Kesepakatan ini bisa dicek di kompetisi berikutnya: diskusi inti dilakukan seger
 
 **Feedback yang diterima:** Kedepannya tim kami harus lebih memperhatikan timeline dan melaksanakan penyusunan masalah dan solusi bersama. Kei dan Aya juga menambahkan bahwa kami semua, termasuk saya, harus bisa latihan pitching minimal dua hari sebelum hari-H, bukan mepet di akhir.
 
+**Hasil adaptasi:** Setelah kesepakatan ini dijalankan, pengerjaan lomba menjadi lebih efisien dan cepat.
+
 **Adaptation/replay:** Ke depannya, tim akan langsung bertemu saat case kompetisi berikutnya rilis, untuk mendiskusikan permasalahan inti dan solusi bersama sebelum masing-masing menyusun ide sendiri.
 
 **Next practice:** Menerapkan kesepakatan ini di kompetisi berikutnya dan mengevaluasi apakah waktu pengerjaan pitching menjadi lebih longgar dari sebelumnya.
 
+
+### Analisis respons terhadap sinyal halus dan trade-off
+
+Dalam kerja kelompok bersama A, sinyal awal yang saya tangkap bukan pernyataan langsung bahwa ia kewalahan, melainkan perubahan nada bicara dan jeda diam. Saya memiliki dua kemungkinan respons: menegur keterlambatan yang terlihat atau bertanya terlebih dahulu untuk memahami konteksnya. Saya memilih bertanya. Setelah A menjelaskan kesulitannya membagi waktu, saya menyesuaikan dukungan dengan memecah milestone menjadi target yang lebih kecil dan memberi pengingat serta tenggat antara.
+
+Pilihan tersebut memiliki trade-off. Memberi pengingat dan target antara membutuhkan koordinasi tambahan dari saya, tetapi berpotensi mengurangi penumpukan pekerjaan menjelang tenggat. Saya juga perlu menjaga agar dukungan tidak berubah menjadi mengambil alih tanggung jawab A. Karena itu, pembagian milestone tetap menjadi alat bantu bagi A untuk mengelola pekerjaannya sendiri, bukan alasan bagi saya untuk mengerjakan bagiannya.
+
+Saya tidak dapat memastikan bahwa perubahan nada hanya disebabkan oleh masalah manajemen waktu. Hal itu baru menjadi dugaan yang lebih kuat setelah A menjelaskannya. Pelajaran yang saya ambil adalah merespons sinyal lemah dengan pertanyaan klarifikasi, lalu memilih tindakan yang mempertimbangkan kebutuhan partner dan kapasitas tim. Pada kerja kelompok berikutnya, saya akan mengecek apakah target antara membantu anggota lebih konsisten, tanpa membuat mereka merasa diawasi secara berlebihan.
+
+
 ## Self-assessment
+
+*Usulan skor, silakan disesuaikan.*
 
 | Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
@@ -155,7 +167,7 @@ Kesepakatan ini bisa dicek di kompetisi berikutnya: diskusi inti dilakukan seger
 | Objective & State | 4 | Saya memulai dengan asumsi bahwa keterlambatan pitch deck berkaitan dengan timeline, lalu memperbarui pemahaman setelah mendengar bahwa ide solusi dikembangkan terpisah sebelum tim menyamakan arah. Saya membedakan gejala dari akar masalah dan mempertimbangkan dampaknya terhadap proses kerja tim. |
 | Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan discovery terbuka untuk menggali masalah dari dugaan awal menuju penyebab yang lebih spesifik. Peran AI dijelaskan secara transparan sebagai bantuan memahami konsep dan merapikan draf, lalu isi percakapan diperiksa kembali agar tetap sesuai dengan pembicaraan yang sebenarnya. |
 | Response & Adaptation | 4 | Jawaban Kei mengubah pemahaman, dan pada kasus A saya menangkap perubahan nada lalu memperbaiki cara kerja (milestone lebih kecil, pengingat) |
-| Agreement, Action & Relationship | 4 | Shared problem statement menghasilkan kesepakatan untuk menyusun masalah dan solusi bersama sejak awal, memperhatikan timeline, serta berlatih pitching minimal dua hari sebelum hari-H. Tindak lanjut untuk kompetisi berikutnya sudah dirumuskan. |
+| Agreement, Action & Relationship | 4 | Shared problem statement menghasilkan kesepakatan untuk menyusun masalah dan solusi bersama sejak awal, memperhatikan timeline, serta berlatih pitching minimal dua hari sebelum hari-H. Tindak lanjut untuk kompetisi berikutnya sudah dirumuskan, dan hasil pengerjaan lomba setelah kesepakatan ini disebut menjadi lebih efisien. |
 
 **Total:** 20 / 20
 

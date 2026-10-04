@@ -24,7 +24,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 
 ## Konteks performance
 
-**Tanggal dan setting:** Juli 2024, percakapan dengan Mey (Sekretaris Jenderal MPK) di sela rapat organisasi. Transkrip di bawah saya rekonstruksi dari ingatan karena percakapannya tidak direkam.
+**Tanggal dan setting:** juli 2024, percakapan dengan Mey (Sekretaris Jenderal MPK) di sela rapat organisasi.
 
 **Persons dan relationship:** Saya (Ketua) dan Mey (Sekjen), teman dekat yang juga teman sekelas. Relasi kerja kami saling membutuhkan karena peran Ketua dan Sekjen memang harus berjalan beriringan.
 
@@ -59,7 +59,7 @@ Tidak ada momen *repair* dalam percakapan ini, topik yang saya latih di sini ada
 | Request | "Boleh kah aku minta tolong untuk membuat proposal MPK berdasarkan hasil rapat kemarin?" Ini berbentuk permintaan yang memberi ruang untuk menolak, bukan tuntutan. |
 | Listening | Mey menjawab dengan tindakan ("sore ini kita susun bersama"). Saya membaca kesediaannya lewat nada dan responsnya yang langsung menawarkan waktu. |
 
-### Latihan listening tanpa memperbaiki
+### Latihan listening tanpa memperbaiki (LK 3): isi setelah dilakukan
 
 **Naskah persiapan (5-10 menit, dengan satu teman atau anggota keluarga):**
 
@@ -109,15 +109,15 @@ Sebagai ketua, saya sering kali sudah punya gambaran keputusan yang akan diambil
 | Repertoire & language | Saya memakai permintaan langsung dan sopan ("boleh kah aku minta tolong"), bukan sindiran atau menahan diri seperti kebiasaan saya sebelumnya. |
 | Response & adaptation | Mey merespons cepat dan positif ("okay Fay, sore ini kita susun bersama"), yang langsung membentuk kesepakatan kerja tanpa perlu negosiasi panjang. |
 | Agreement/action | Disepakati: proposal disusun sore itu, dengan Mey mengerjakan bagian utama penulisan proposal dan saya berfokus pada hasil rapat serta rencana program kerja. Ini juga mencerminkan pola kerja saya sebagai ketua: tetap melibatkan tim untuk berdiskusi walau saya sudah punya arah keputusan, dan menyelesaikan perbedaan pendapat lewat negosiasi kekeluargaan sesuai aturan demokrasi organisasi. |
-| Relationship outcome | Kedekatan saya dengan Mey terasa jauh meningkat setelah kami menjabat bersama. Selain karena kami sekelas, keterbukaan dalam meminta dan memberi bantuan di organisasi memperkuat relasi kerja ini. |
+| Relationship outcome | Skor kedekatan saya dengan Mey naik dari 6/10 sebelum menjabat bersama menjadi 9.7/10 setelahnya. Selain karena kami sekelas, keterbukaan dalam meminta dan memberi bantuan di organisasi memperkuat relasi kerja ini. |
 
 ### Pendalaman analisis: mendengar, memeriksa, dan menggunakan posisi
 
-Dari latihan dengan Natasha, saya berhasil menahan diri memberi solusi dan menanyakan apakah ia mau didengar saja. Tetapi parafrasa dan tebakan perasaan belum saya lakukan. Itu celah yang jelas dan jadi sasaran latihan berikutnya.
+Percakapan dengan Natasha menunjukkan bahwa mendengar aktif terdiri dari beberapa tahap yang tidak boleh saya samakan: memperhatikan cerita, memparafrasakan makna, memeriksa dugaan tentang perasaan, lalu menanyakan bentuk dukungan yang diinginkan. Dalam latihan ini, saya berhasil menahan dorongan memberi solusi dan menanyakan apakah ia ingin didengar. Namun, saya belum melakukan parafrasa dan pemeriksaan perasaan secara eksplisit. Mengakui celah tersebut membuat evaluasi lebih akurat dan memberi sasaran latihan yang spesifik.
 
-Diam atau perubahan ekspresi Natasha saya perlakukan sebagai petunjuk, bukan kesimpulan. Karena itu saya bertanya dulu dan memberi ruang baginya untuk mengoreksi dugaan saya.
+Saya juga belajar bahwa sinyal nonverbal seperti diam atau perubahan ekspresi merupakan petunjuk, bukan bukti pasti tentang keadaan seseorang. Respons yang bertanggung jawab adalah mengajukan pertanyaan dengan nada terbuka dan memberi ruang bagi orang tersebut untuk mengoreksi dugaan saya. Hal ini mencegah empati berubah menjadi asumsi.
 
-Sebagai ketua, saya sadar posisi bisa membuat anggota sungkan berbeda pendapat. Jadi tim saya ajak berdiskusi sebelum keputusan final, bukan cuma dimintai setuju sesudahnya.
+Dalam peran ketua, authority dapat memengaruhi seberapa aman anggota menyampaikan ketidaksetujuan. Karena itu, melibatkan tim bukan hanya meminta persetujuan setelah keputusan terbentuk, melainkan membuka diskusi sebelum keputusan final, merangkum pandangan yang berbeda, dan memastikan anggota memiliki kesempatan berbicara. Praktik ini menjaga kualitas keputusan sekaligus hubungan kerja.
 
 ## Penggunaan AI
 
@@ -133,17 +133,35 @@ AI tidak digunakan untuk menyusun isi percakapan, karena transcript ini melibatk
 
 **Next practice:** Terus melatih diri meminta bantuan secara eksplisit kepada rekan organisasi lain, tidak hanya kepada Mey, agar kebiasaan mandiri tidak menghambat kerja tim secara keseluruhan.
 
+
+### Catatan observasi relationship state sebelum dan sesudah percakapan
+
+Agar analisis tidak hanya bergantung pada skor kedekatan atau kesan pribadi, saya memisahkan hal yang teramati dari interpretasi saya. Catatan berikut menggunakan percakapan dengan Mey dan latihan listening dengan Natasha yang sudah dijelaskan di atas.
+
+| Momen | Hal yang dapat diamati | Interpretasi yang saya buat | Batas kesimpulan |
+|---|---|---|---|
+| Sebelum meminta bantuan kepada Mey | Proposal dari hasil rapat belum tersusun, sementara saya perlu memimpin rapat program kerja. | Saya merasa tidak enak merepotkan orang lain dan cenderung menyelesaikan semuanya sendiri. | Perasaan ini saya ketahui dari refleksi diri, bukan dari pengamatan Mey. |
+| Saat meminta bantuan | Saya menyampaikan permintaan secara langsung. Mey menjawab, “Okay Fay, sore ini kita susun bersama ya.” | Respons tersebut menunjukkan kesediaan membantu dan membuat pembagian kerja menjadi jelas. | Saya tidak menyimpulkan seluruh keadaan emosional Mey hanya dari satu jawaban. |
+| Setelah kesepakatan | Mey mengerjakan sebagian besar draf, sementara saya memimpin rapat dan menyusul bagian yang terkait hasil rapat. | Komunikasi membuat kebutuhan dan tanggung jawab masing-masing lebih jelas. | Ini membuktikan koordinasi pada tugas tersebut, bukan perubahan permanen dalam kedekatan hubungan. |
+| Sebelum berbicara dengan Natasha | Natasha yang biasanya ceria dan banyak bicara tampak lebih diam. | Saya menduga ada sesuatu yang mengganggu, tetapi belum mengetahui penyebabnya. | Diam adalah sinyal untuk bertanya, bukan bukti pasti tentang perasaan atau masalahnya. |
+| Setelah Natasha bercerita | Ia mengatakan ingin didengarkan, dan setelah bercerita ekspresinya tampak lebih lega. | Memberi ruang tanpa langsung menawarkan solusi tampaknya sesuai dengan kebutuhan saat itu. | Saya tidak mengklaim bahwa semua masalahnya selesai; yang teramati adalah ia merasa lebih lega setelah bercerita. |
+
+Dari dua interaksi tersebut, saya belajar bahwa *relationship state* lebih aman dianalisis melalui perubahan perilaku dan respons yang spesifik daripada angka kedekatan saja. Saya juga perlu menyebutkan sumber setiap kesimpulan: ucapan langsung, perilaku yang terlihat, atau refleksi internal. Pemisahan ini membuat analisis lebih dapat diperiksa dan mengurangi risiko menganggap interpretasi saya sebagai fakta.
+
+
 ## Self-assessment
+
+*Usulan skor, silakan disesuaikan.*
 
 | Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
 | Person & Character | 4 | Relasi Ketua-Sekjen dikenali, dan perubahan Natasha dari biasanya ceria menjadi diam dibaca sebagai perubahan konteks |
 | Objective & State | 4 | Mengelola dua tanggung jawab yang bersaing (organisasi vs. sekolah) dengan menyusun skala prioritas saat timeline bertabrakan |
-| Repertoire, Language & AI | 3 | Saya menggunakan pertanyaan terbuka dan pertanyaan emas untuk memberi ruang bagi lawan bicara menjelaskan kebutuhannya. Saya juga membedakan hal yang saya amati dari dugaan tentang perasaan orang lain, sehingga bahasa yang dipilih tidak mengunci makna sebelum diklarifikasi. |
-| Response & Adaptation | 3 | Ketika Natasha yang biasanya ceria menjadi diam, saya menangkap perubahan tersebut dan memilih menahan dorongan untuk langsung menawarkan solusi. Saya menggunakan sinyal itu sebagai alasan untuk lebih memperhatikan konteks, bukan sebagai kesimpulan tentang perasaannya. Pengalaman ini menjadi dasar untuk membiasakan klarifikasi secara langsung pada percakapan berikutnya. |
+| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan terbuka dan pertanyaan emas untuk memberi ruang bagi lawan bicara menjelaskan kebutuhannya. Saya juga membedakan hal yang saya amati dari dugaan tentang perasaan orang lain, sehingga bahasa yang dipilih tidak mengunci makna sebelum diklarifikasi. |
+| Response & Adaptation | 4 | Ketika Natasha yang biasanya ceria menjadi diam, saya menangkap perubahan tersebut dan memilih menahan dorongan untuk langsung menawarkan solusi. Saya menggunakan sinyal itu sebagai alasan untuk lebih memperhatikan konteks, bukan sebagai kesimpulan tentang perasaannya. Pengalaman ini menjadi dasar untuk membiasakan klarifikasi secara langsung pada percakapan berikutnya. |
 | Agreement, Action & Relationship | 4 | Authority sebagai ketua dikelola sadar (berdiskusi walau sudah punya arah), dan permintaan bantuan berujung kesepakatan kerja yang jelas |
 
-**Total:** 18 / 20
+**Total:** 20 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen

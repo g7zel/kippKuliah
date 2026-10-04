@@ -26,7 +26,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 **Tanggal dan setting:** sekitar September 2025 (semester 1, TPB), refleksi pribadi setelah menerima nilai ujian yang lebih rendah dari harapan.
 
-**Persons dan relationship:** Diri saya sendiri. Saat menulis ini saya mahasiswa STI semester 3 dengan 23 SKS, tetapi episode utamanya terjadi di semester 1 (TPB).
+**Persons dan relationship:** Diri saya sendiri, dalam peran sebagai mahasiswa STI semester 3 yang mengambil 23 SKS tetapi cerita ini terjadi saat TPB (semester 1).
 
 **Objective dan initial state:** Saya ingin mengubah reaksi otomatis ("usaha saya sia-sia") menjadi response yang membantu saya memperbaiki cara belajar. State awal: saya sedih dan merasa sudah berusaha maksimal tetapi hasilnya tidak sepadan.
 
@@ -41,7 +41,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 | **Fact** | Saya belajar sejak jauh hari. Nilai ujian tidak sesuai target saya. Kejadian ini terjadi saat TPB ITB, yaitu semester 1 perkuliahan. |
 | **Initial story** | "Saya sudah belajar mati-matian, tetapi tetap gagal. Berarti usaha saya tidak berguna, dan mungkin saya memang tidak cukup mampu." |
 | **Emotion** | Sedih. |
-| **Internal character** | **Victim (si korban)**: merasa sudah berkorban banyak tetapi hasilnya tidak adil. |
+| **Internal character** | **Si korban**: merasa sudah berkorban banyak tetapi hasilnya tidak adil. |
 | **Alternative narrative 1** | "Saya sudah belajar jauh-jauh hari, tetapi belum tentu belajar dengan cara yang tepat. Mungkin saya perlu menyesuaikan materi yang dipelajari dengan bentuk soal yang diujikan." |
 | **Alternative narrative 2** | "Dengan beban SKS yang banyak, waktu saya terbagi ke banyak mata kuliah. Kesulitannya mungkin ada di pengaturan waktu, bukan di kemampuan atau kemauan saya." |
 | **Alternative narrative 3** | "Satu nilai ujian adalah satu data. Ini belum menunjukkan siapa saya, dan masih ada tugas serta ujian lain yang bisa saya perbaiki." |
@@ -50,7 +50,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 | **Chosen response** | Memperbaiki pengaturan waktu belajar dan mengecek pemahaman lewat soal latihan, bukan hanya membaca ulang. |
 | **Outcome** | Saya belajar dengan giat untuk kuis-kuis dan UTS berikutnya dengan jadwal yang lebih terstruktur, hingga akhirnya berhasil lulus mata kuliah tersebut. |
 
-### Narasi lengkap
+### Narasi lengkap sesuai LK 2
 
 **Emosi dan sensasi tubuh:** sedih dan kecewa, lalu langsung merasa insecure dan tidak pantas berada di ITB. Saya tidak mengukur intensitasnya dengan angka saat itu. Sensasi tubuh: nafsu makan hilang, jadi malas makan.
 
@@ -68,7 +68,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 Karakter internal tidak tetap. Saat nilai keluar, character yang muncul adalah **victim**, dipicu ekspektasi tinggi terhadap diri sendiri dan kebiasaan perfeksionis yang mengukur usaha dari nilai. Setelah fact dan story dipisahkan, character bergeser ke **investigator**, yaitu mencari sebab yang bisa diperiksa, lalu ke **coach**, yaitu menyusun jadwal dan latihan soal. Konteks yang berubah adalah dari ruang pribadi setelah melihat nilai menjadi perencanaan mingguan dengan tanda evaluasi. Tanda pergeseran: kalimat batin saya berubah dari "sia-sia" menjadi "apa yang bisa saya ubah?". Character victim masih bisa muncul lagi saat ada nilai buruk. Karena itu internal agreement saya menyertakan sesi evaluasi setelah tiap ujian.
 
-**Pendamping:** orang tua. Saya menceritakan kejadian ini kepada mereka, sehingga saya tidak menanggungnya sendirian. Untuk urusan akademik saya relatif terbuka ke orang tua, berbeda dengan kebutuhan sehari-hari yang masih sering saya pendam (lihat Minggu 1).
+**Pendamping:** orang tua. Saya menceritakan kejadian ini kepada mereka, sehingga saya tidak menanggungnya sendirian, sesuatu yang biasanya saya lakukan.
 
 **Pergeseran setelah kejadian itu.** Situasi serupa (hasil tidak sesuai harapan sampai muncul narasi korban) jarang terulang. Bukti pergeserannya ada pada perilaku: sejak kejadian itu saya lebih rajin mengatur waktu belajar untuk ujian, yaitu jadwal mingguan dan latihan soal. Artinya character coach mengambil alih peran yang dulu diisi victim, bukan hanya dalam satu situasi tetapi sebagai kebiasaan.
 
@@ -79,9 +79,9 @@ Pola yang sama muncul lagi di awal semester 3. Pemicunya adalah beban 23 SKS yan
 | Tahap | Semester 1 (TPB) | Awal semester 3 |
 |---|---|---|
 | Suara batin awal | "Usaha saya sia-sia, mungkin saya tidak mampu." | "Kayaknya semester ini berat." (karena mengambil 23 SKS) |
-| Character yang berbicara | Victim | Investigator: kekhawatiran muncul, tetapi diperiksa dengan bukti |
+| Character yang berbicara | Victim | Kekhawatiran muncul, tetapi diperiksa dengan bukti |
 | Bukti yang saya pakai | Belum ada | Di semester 2 saya berhasil dengan strategi belajar tertentu, jadi strategi yang sama bisa dipakai lagi |
-| Dukungan | Cerita ke orang tua setelah kejadian | Sudah sering cerita soal kuliah ke orang tua sebelum dan selama semester berjalan |
+| Dukungan | Cerita ke orang tua setelah kejadian | Sudah sering curhat ke orang tua sebelum dan selama semester berjalan |
 | Kalimat batin sesudahnya | Mencari cara memperbaiki | "Saya pasti bisa kalau melakukan strategi belajar yang sama seperti semester 2." |
 | Hasil | Coach mengambil alih | Rasa percaya diri bahwa saya bisa |
 
@@ -111,9 +111,9 @@ Saya membuat jadwal terstruktur setiap hari dalam bentuk to-do list, ditulis tan
 
 ### Pendalaman analisis: dari evaluasi diri ke eksperimen belajar
 
-Saya tidak perlu pura-pura tidak kecewa. Kecewa itu wajar, hanya saja tidak boleh jadi satu-satunya dasar untuk menilai kemampuan diri. Fakta-nya nilai di bawah target. "Saya tidak mampu" itu story yang saya tambahkan sendiri.
+Hal penting dari episode ini adalah bahwa perubahan respons tidak mengharuskan saya menyangkal rasa kecewa. Emosi tersebut tetap valid, tetapi tidak harus menjadi dasar satu-satunya untuk menilai kemampuan diri. Dengan memisahkan fakta (nilai berada di bawah target) dari story (saya tidak mampu), saya dapat mempertahankan informasi yang berguna tanpa mengubahnya menjadi kesimpulan menyeluruh tentang identitas saya.
 
-Jadwal dan latihan soal saya perlakukan sebagai eksperimen, bukan jaminan. Kalau hasilnya tetap belum membaik, yang saya lakukan adalah meninjau ulang cara belajar dan meminta bantuan, bukan kembali menyalahkan diri.
+Strategi belajar yang saya pilih juga dapat dipahami sebagai eksperimen, bukan jaminan hasil. Jadwal dan latihan soal memberi cara untuk menguji apakah masalah sebelumnya berkaitan dengan metode belajar atau pengelolaan waktu. Jika strategi tidak menghasilkan perubahan, saya perlu mengevaluasi kembali asumsi dan mencari bantuan, bukan kembali menyalahkan diri. Dengan demikian, internal agreement berfungsi sebagai siklus: merencanakan, mencoba, mengamati hasil, lalu menyesuaikan.
 
 **Batas refleksi:** karena saya tidak memiliki catatan intensitas emosi atau perbandingan nilai yang lengkap dari periode tersebut, saya tidak menyimpulkan bahwa satu perubahan strategi menjadi satu-satunya penyebab kelulusan. Kesimpulan yang lebih tepat adalah pengalaman itu membantu saya membangun kebiasaan belajar yang lebih terstruktur dan cara memaknai hasil yang lebih seimbang.
 
@@ -122,6 +122,7 @@ Jadwal dan latihan soal saya perlakukan sebagai eksperimen, bukan jaminan. Kalau
 - **Memahami materi:**Claude membantu saya memahami konsep event, fact, story, dan internal character.
 - **Menyusun draf:** di sesi ini, saya menceritakan kejadian, emosi, dan character internal saya. Claude membantu menyusun tabel dan mengusulkan alternative narrative serta draf internal agreement.
 - **Yang saya periksa dan putuskan:** peristiwa, emosi, dan character si korban berasal dari pengalaman saya. Alternative narrative dan internal agreement adalah usulan yang saya periksa dan ubah agar sesuai dengan kondisi saya.
+- **Refleksi:** AI membantu saya melihat alternatif narasi yang tidak terpikir saat sedang sedih. Penilaian mana yang sesuai dengan kondisi saya, dan keputusan mengubah jadwal belajar, tetap berasal dari judgment saya sendiri.
 - **Pemeriksaan:** tidak ada data pribadi orang lain di dalam evidence ini.
 
 ## Feedback dan tindak lanjut
@@ -132,7 +133,19 @@ Jadwal dan latihan soal saya perlakukan sebagai eksperimen, bukan jaminan. Kalau
 
 **Next practice:** Menyusun jadwal belajar mingguan pada tiap Minggu malam dan mencatat hasil evaluasinya setelah ujian atau tugas.
 
+
+### Dinamika perubahan character berdasarkan konteks
+
+Perubahan dari *victim* menjadi *agent* tidak terjadi hanya karena saya memutuskan untuk berpikir positif. Perubahan itu dipengaruhi oleh konteks dan bukti yang tersedia. Pada semester 1, saya masih beradaptasi dengan ritme kuliah dan belum memiliki cukup pengalaman untuk menilai apakah strategi belajar saya efektif. Ketika nilai tidak sesuai harapan, saya menafsirkan hasil tersebut sebagai penilaian terhadap kemampuan diri. Dalam kondisi itu, character *victim* lebih mudah muncul karena perhatian saya tertuju pada rasa kecewa dan hal yang tidak dapat diubah.
+
+Pada semester 3, situasinya berbeda. Beban 23 SKS tetap menimbulkan kekhawatiran, tetapi saya sudah memiliki pengalaman berhasil pada semester sebelumnya. Bukti tersebut membantu saya mengambil peran sebagai *agent*: saya dapat mengingat strategi yang pernah berhasil, menyusun jadwal, dan meminta dukungan sebelum tekanan mencapai puncaknya. Jadi, perubahan character berkaitan dengan perubahan konteks, pengalaman, dan pilihan tindakan, bukan perubahan kepribadian secara mendadak.
+
+Indikator pergeseran yang dapat diperiksa adalah perubahan pertanyaan internal. Saat berada dalam pola *victim*, saya bertanya mengapa usaha saya sia-sia. Saat mengambil peran *agent*, saya bertanya strategi apa yang dapat diuji atau disesuaikan. Saya masih mungkin merasa kecewa ketika hasil tidak sesuai harapan, tetapi emosi tersebut tidak harus menentukan tindakan berikutnya.
+
+
 ## Self-assessment
+
+*Usulan skor, silakan disesuaikan.*
 
 | Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|

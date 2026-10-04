@@ -24,7 +24,7 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 ## Konteks performance
 
-**Tanggal dan setting:** 22 September 2026, menceritakan proyek lomba Gemastik kepada Suci (teman dekat), sebagai uji pemahaman versi *friend*.
+**Tanggal dan setting:** 22 september 2026, menceritakan proyek lomba Gemastik kepada Suci (teman dekat), sebagai uji pemahaman versi *friend*.
 
 **Persons dan relationship:** Saya bersama tim mengikuti lomba Gemastik kategori desain pengalaman pengguna (UI/UX), dengan fokus riset masalah pertanian. Proyek ini sudah lolos hingga tahap final. Target uji pemahaman: Suci, teman dekat saya.
 
@@ -44,10 +44,10 @@ Tim kami mengikuti Gemastik kategori desain pengalaman pengguna. Sebelum mendesa
 | **Friend** (Suci) | "Aku sama tim ikut lomba Gemastik desain UX. Kita riset masalah pertanian dulu, ternyata petani muda makin sedikit karena minatnya turun. Makanya kita bikin aplikasi buat mempermudah petani muda, ada fitur monitoring lahan biar nggak perlu capek-capek pantau langsung. Sekarang udah sampai final!" | Bahasa santai, personal, dan menonjolkan pencapaian (lolos final) karena teman dekat akan senang mendengar progres saya. |
 | **Technical peer** (sesama mahasiswa UI/UX) | "Kita develop UX case untuk masalah regenerasi petani muda di Gemastik. User research awal nunjukkin minat kerja di pertanian menurun karena effort monitoring lahan manual tinggi. Solusinya kita rancang fitur monitoring sawah berbasis aplikasi buat nyederhanain task petani. Sekarang di tahap final." | Menyebut proses (user research, fitur) dan istilah teknis UX yang dipahami sesama peer, tanpa perlu menjelaskan dasar-dasar desain. |
 | **Manager** (dosen pembimbing/ketua tim lomba) | "Proyek kami di Gemastik mengangkat isu regenerasi petani muda yang menurun akibat beban monitoring lahan manual. Solusi yang kami usulkan adalah fitur monitoring sawah dalam aplikasi, untuk menyederhanakan pekerjaan petani muda dan mendukung minat mereka bertahan di sektor pertanian. Saat ini kami lolos ke tahap final." | Menekankan masalah, dampak, dan proposal solusi secara ringkas, sesuai kebutuhan pembimbing untuk menilai kelayakan proyek. |
-| **Customer** (petani atau calon pengguna aplikasi) | "Aplikasi ini kami buat supaya Bapak/Ibu tidak perlu bolak-balik ke sawah hanya untuk memantau kondisi lahan. Ada fitur monitoring yang bisa dicek langsung dari aplikasi, jadi pekerjaan memantau lahan jadi lebih mudah. Aplikasi ini hanya memantau, perawatan tanaman tetap dikerjakan oleh Bapak/Ibu." | Fokus pada manfaat langsung dan tindakan, tanpa istilah teknis UX atau data kompetisi yang tidak relevan bagi pengguna. |
+| **Customer** (petani atau calon pengguna aplikasi) | "Aplikasi ini kami buat supaya Bapak/Ibu tidak perlu bolak-balik ke sawah hanya untuk memantau kondisi lahan. Ada fitur monitoring yang bisa dicek langsung dari aplikasi, jadi pekerjaan memantau lahan jadi lebih mudah." | Fokus pada manfaat langsung dan tindakan, tanpa istilah teknis UX atau data kompetisi yang tidak relevan bagi pengguna. |
 | **Public** | "Salah satu masalah besar pertanian Indonesia saat ini adalah semakin sedikitnya petani muda. Kami merancang sebuah aplikasi dengan fitur monitoring lahan untuk membantu meringankan pekerjaan petani, sebagai bagian dari upaya mendukung regenerasi petani muda." | Konteks masalah nasional disampaikan agar relevan untuk audiens luas, tanpa detail internal proyek atau lomba. |
 
-### Detoks jargon
+### Detoks jargon (LK 4)
 
 **Konsep teknis:** *User research* pada desain UI/UX, yaitu konsep yang saya pakai dalam proyek Gemastik.
 
@@ -99,7 +99,7 @@ Suci bertanya: "Masih bingung tentang cara bantunya gimana?" Nada bicaranya sebe
 
 Pada 15 September 2026, saya dan tim menyampaikan proyek ini ke dosen pembimbing dalam versi *manager*, lalu melakukan sesi proofread bersama terhadap proposal desain pengalaman pengguna kami. Dari sesi ini ditemukan beberapa kesalahan penyusunan yang sebelumnya tidak kami sadari sendiri. Reaksi dosen pembimbing: awalnya menyelamati kami karena berhasil lolos ke tahap final, lalu di akhir sesi memberi semangat untuk terus mengerjakan lomba ini dengan lebih baik.
 
-Berbeda dari Suci yang perlu penjelasan lebih konkret soal "bagaimana", dosen pembimbing menangkap core meaning dengan cepat dan langsung masuk ke evaluasi teknis (kesalahan penyusunan proposal). Hanya satu bagian yang perlu saya jelaskan ulang, seperti dicatat di bagian power dan role di atas. Ini menunjukkan versi *manager* saya sudah cukup ringkas dan berorientasi keputusan, sesuai audiensnya yang punya konteks lebih dari sekadar teman dekat.
+Berbeda dari Suci yang perlu penjelasan lebih konkret soal "bagaimana", dosen pembimbing justru menangkap core meaning dengan cepat dan langsung masuk ke evaluasi teknis (kesalahan penyusunan proposal). Ini menunjukkan versi *manager* saya sudah cukup ringkas dan berorientasi keputusan, sesuai audiensnya yang punya konteks lebih dari sekadar teman dekat.
 :::
 
 ## Analisis komunikasi
@@ -115,9 +115,11 @@ Berbeda dari Suci yang perlu penjelasan lebih konkret soal "bagaimana", dosen pe
 
 ### Pendalaman analisis: menguji kesetaraan makna lintas audiens
 
-Menyederhanakan bahasa tidak cukup. Yang harus saya jaga di setiap versi adalah masalahnya, batas fungsi aplikasi, dan apa yang saya harapkan dipahami pendengar. Salah paham soal IoT menunjukkan kalimat yang terdengar enak bisa menjanjikan lebih dari yang aplikasi bisa lakukan.
+Keberhasilan penerjemahan pesan tidak cukup diukur dari kalimat yang terdengar lebih sederhana. Saya perlu memeriksa apakah setiap versi tetap mempertahankan tiga unsur: masalah yang sedang dibahas, batas atau kondisi yang relevan, dan tindakan atau pemahaman yang diharapkan dari audiens. Istilah dapat berubah, tetapi ketiga unsur tersebut tidak boleh hilang atau menimbulkan janji yang tidak didukung informasi.
 
-Jawaban Suci dan dosen pembimbing saya baca sebagai tes untuk pesan saya, bukan tanda mereka setuju. Pertanyaan "cara bantunya gimana?" justru lebih berguna daripada nada antusiasnya, karena menunjukkan bagian mana yang belum sampai.
+Perbedaan versi untuk audiens juga merupakan keputusan tentang prioritas informasi. Audiens teknis mungkin membutuhkan rincian proses, sedangkan audiens non-teknis lebih terbantu oleh konteks, dampak, dan penjelasan istilah. Menyederhanakan pesan bukan berarti mengurangi akurasi; saya harus memilih analogi yang membantu tanpa menyamakan dua hal yang sebenarnya berbeda.
+
+Bukti pemahaman dari Suci dan dosen pembimbing perlu dibaca sebagai pemeriksaan terhadap pesan, bukan sekadar tanda bahwa mereka menyetujui saya. Parafrasa atau pertanyaan lanjutan dapat menunjukkan bagian yang sudah jelas sekaligus mengungkap ambiguitas. Jika ada masukan, revisi sebaiknya dicatat sebagai hubungan antara masukan, perubahan kalimat, dan alasan perubahan. Dengan cara itu, proses adaptasi bahasa dapat ditelusuri dan dievaluasi.
 
 ## Penggunaan AI
 
@@ -134,7 +136,19 @@ Jawaban Suci dan dosen pembimbing saya baca sebagai tes untuk pesan saya, bukan 
 
 **Next practice:** Menguji versi *customer* atau *technical peer* ke target nyata berikutnya, untuk melihat apakah pertanyaan yang muncul berbeda dari yang diajukan Suci dan dosen pembimbing.
 
+
+### Latihan membaca perubahan role dan power pada audiens manager
+
+Pengalaman menyampaikan proyek kepada dosen pembimbing menunjukkan bahwa posisi audiens memengaruhi bentuk pesan. Dosen pembimbing berperan sebagai penasihat, bukan pengambil keputusan akhir. Karena itu, saya menyampaikan inti masalah dan status proyek secara ringkas, lalu membuka ruang untuk masukan. Ketika beliau tampak bingung pada satu bagian, saya menjelaskan kembali fungsi aplikasi dengan lebih konkret.
+
+Sebagai latihan lanjutan, saya menggunakan skenario hipotetis: seorang manager tertarik pada solusi, tetapi menyampaikan bahwa anggaran dan waktu implementasi terbatas. Dalam situasi ini, saya tidak seharusnya langsung mempertahankan seluruh fitur atau menganggap keberatan tersebut sebagai penolakan terhadap ide. Saya perlu mengklarifikasi batas yang paling penting, misalnya apakah kendalanya biaya awal, biaya operasional, atau waktu tim. Setelah itu, saya dapat menawarkan tahap uji coba dengan ruang lingkup kecil dan indikator keberhasilan yang disepakati.
+
+Contoh respons yang akan saya gunakan: “Kalau prioritas saat ini adalah menjaga biaya dan waktu implementasi, bagian mana yang paling penting untuk diuji terlebih dahulu? Kita bisa mulai dari fungsi pemantauan inti, lalu mengevaluasi hasilnya sebelum membahas pengembangan berikutnya.” Respons ini menjaga tujuan utama sekaligus mengakui batasan pihak yang memiliki kewenangan. Karena ini merupakan simulasi, saya tidak mencatatnya sebagai percakapan nyata atau bukti bahwa manager telah menyetujui usulan. Latihan ini menjadi persiapan untuk menguji adaptasi tersebut pada diskusi berikutnya.
+
+
 ## Self-assessment
+
+*Usulan skor, silakan disesuaikan.*
 
 | Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
