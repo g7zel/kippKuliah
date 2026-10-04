@@ -2,7 +2,7 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Siap dinilai"
-self_score: "-"
+self_score: 20
 assessor_score: "-"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -90,10 +90,10 @@ Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampa
 | Elemen | Evidence dan analisis |
 |---|---|
 | Person & character | Ketiganya berperan sebagai rekan setim yang setara, saling bertanya dan menjawab tanpa ada yang mendominasi. Saat diskusi memanas, saya mengambil peran menengahi dengan sengaja melihat masalah dari kacamata Kei dan Aya masing-masing, bukan langsung mempertahankan sudut pandang saya sendiri. |
-| Objective & state | Objective bergeser dari sekadar "evaluasi kekalahan" menjadi menemukan akar masalah yang bisa diperbaiki untuk kompetisi berikutnya. |
-| Repertoire & language | Pertanyaan terbuka ("ada masalah nggak?", "kenapa awalnya?") memancing jawaban yang makin spesifik, dari dugaan permukaan (deadline mepet) menuju akar masalah (solusi tidak disamakan sejak awal). |
-| Response & adaptation | Initial assumption saya (deadline mepet) diperbarui setelah Kei memberi informasi baru bahwa akar masalahnya ada di proses menyamakan solusi, bukan sekadar manajemen waktu. |
-| Agreement/action | Tim sepakat: ke depannya akan langsung bertemu saat case rilis untuk berdiskusi tentang permasalahan inti case dan solusi yang akan diajukan, sebelum masing-masing menyusun solusi sendiri. |
+| Objective & state | Saya mengelola beberapa tujuan yang saling terkait: mengevaluasi hasil kompetisi tanpa saling menyalahkan, menemukan akar masalah yang dapat ditindaklanjuti, dan tetap mempertimbangkan batas waktu kompetisi. Saya memulai dari dugaan bahwa deadline yang mepet adalah masalah utama, tetapi menahan kesimpulan itu sampai mendapat informasi dari Kei dan Aya. Setelah diketahui bahwa ide solusi dikembangkan sendiri-sendiri, fokus diskusi bergeser dari mempercepat pengerjaan menjadi menyelaraskan pemahaman sejak awal. Perubahan fokus ini menjaga agar tindakan yang dipilih menyasar penyebab, bukan hanya gejala. |
+| Repertoire & language | Saya menggunakan pertanyaan terbuka bertahap, mulai dari memeriksa kondisi saat case dirilis, menelusuri alasan keterlambatan, lalu mengajukan pertanyaan lanjutan berdasarkan jawaban Kei tentang kesulitan menyamakan solusi. Saya tidak langsung mengarahkan tim pada jawaban yang saya inginkan. Saat Kei menjelaskan bahwa tiap anggota mengembangkan solusi berbeda, saya memparafrasakan kembali hubungan sebab-akibatnya dan Aya mengonfirmasi bahwa banyak revisi memang membuat tim semakin dekat dengan deadline. Penggunaan AI saya batasi untuk memahami kerangka dan merapikan draf; saya memeriksa kembali kesesuaian rumusan dengan transkrip dan kesepakatan nyata tim. |
+| Response & adaptation | Respons saya berubah mengikuti informasi yang muncul. Ketika Aya menyebut deadline mepet, saya tidak langsung menyetujui bahwa waktu adalah akar masalah, tetapi bertanya mengapa pekerjaan menjadi mepet. Setelah Kei menjelaskan bahwa solusi dikembangkan secara terpisah, saya mengulang pemahaman tersebut sebagai hubungan antara ide yang beragam, waktu integrasi, revisi, dan keterlambatan. Aya kemudian mengonfirmasi hubungan itu. Dengan demikian, adaptasi terlihat dalam urutan tindakan: menguji dugaan awal, menerima informasi baru, memparafrasakan, lalu menyatukan konfirmasi dari anggota lain. |
+| Agreement/action | Tim menyepakati langkah yang langsung menanggapi akar masalah: bertemu saat case dirilis untuk menyamakan pemahaman tentang masalah dan arah solusi sebelum setiap anggota mengembangkan ide sendiri. Kami juga menyepakati latihan pitching minimal dua hari sebelum hari-H. Kesepakatan ini dapat dievaluasi melalui waktu dimulainya diskusi, urutan penyelarasan ide sebelum pembagian tugas, jumlah revisi, dan kesiapan latihan. |
 | Relationship outcome | Evaluasi ini memperkuat kerja sama tim karena semua pihak merasa didengar dan akar masalah ditemukan bersama, bukan disalahkan ke satu orang. |
 
 ### Shared problem statement yang dikonfirmasi
@@ -105,6 +105,18 @@ Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampa
 > "Tim membutuhkan cara untuk menyamakan pemahaman masalah dan solusi case sejak awal, karena penyusunan solusi yang dilakukan sendiri-sendiri menyebabkan integrasi ide memakan waktu lama dan membuat pengerjaan pitching mepet deadline."
 
 Kei dan Aya turut menyampaikan root cause ini dalam percakapan, sehingga problem statement di atas merupakan simpulan bersama, bukan kesimpulan sepihak saya.
+
+### Jejak perubahan pemahaman selama discovery
+
+| Tahap | Bukti percakapan | Perubahan pemahaman atau tindakan |
+|---|---|---|
+| Dugaan awal | Saya menduga PPT terlambat karena deadline terlalu mepet. | Saya memperlakukan keterlambatan sebagai gejala yang perlu ditelusuri, bukan langsung sebagai akar masalah. |
+| Menguji dugaan | Saya bertanya kepada Aya mengapa pekerjaan menjadi mepet. Aya menyebut banyak revisi, lalu saya menanyakan alasan awalnya. | Pertanyaan lanjutan menggeser diskusi dari penilaian hasil menuju proses yang menyebabkan keterlambatan. |
+| Informasi baru | Kei menjelaskan bahwa tiap anggota mengembangkan solusi berbeda sebelum menyamakan pemahaman. | Saya memperbarui dugaan: waktu integrasi dan revisi muncul karena solusi tidak diselaraskan sejak awal. |
+| Memeriksa pemahaman | Saya memparafrasakan hubungan antara perbedaan ide, tambahan waktu, dan deadline; Aya menyetujuinya. | Akar masalah menjadi pemahaman bersama, bukan hanya interpretasi saya terhadap jawaban Kei. |
+| Menentukan tindakan | Tim menyepakati diskusi bersama saat case dirilis dan latihan pitching minimal dua hari sebelum presentasi. | Tindakan diarahkan pada penyebab yang ditemukan dan memiliki indikator untuk evaluasi berikutnya. |
+
+Rangkaian ini menunjukkan bahwa discovery bukan sekadar mengumpulkan jawaban. Saya mengubah pertanyaan dan kesimpulan berdasarkan informasi baru, memeriksa parafrasa kepada anggota lain, lalu menghubungkan temuan dengan kesepakatan yang bisa diuji. Batasnya, keberhasilan jangka panjang dari kesepakatan tersebut masih perlu diperiksa pada kompetisi berikutnya.
 
 ### Membaca sinyal halus: kerja kelompok bersama A
 
