@@ -82,6 +82,40 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 
 Saya menangkap keraguan Kei sebelum berubah menjadi penolakan yang lebih besar. Daripada mempertahankan solusi saya, saya bertanya bagian mana yang membuatnya ragu, lalu mengecek kembali problem statement agar kami punya pemahaman yang sama sebelum memilih solusi.
 
+### Bukti chat tindak lanjut: retro tim sebelum lanjut lomba
+
+**Tanggal:** 29/09/2026
+**Target:** Kei dan Aya
+
+```text
+Fayza: Guys, sebelum lanjut lomba, kita retro bentar yuk. Menurut kalian kemarin bagian mana yang paling bikin lama?
+Kei: Menurutku koordinasi. Kadang kita baru tahu ada bagian yang belum dikerjain pas udah deket deadline.
+Aya: Aku setuju. Sama pembagian tugasnya kadang masih berubah-ubah.
+Fayza: Berarti kita perlu pembagian tugas yang lebih jelas dari awal ya.
+Kei: Iya, terus kasih deadline internal sebelum deadline asli.
+Aya: Biar masih ada waktu kalau ada revisi.
+Fayza: Okee, berarti next kita bikin deadline internal dan cek progress sebelum deadline utama.
+```
+
+Chat ini melanjutkan evaluasi tim di atas. Saya membuka dengan pertanyaan terbuka, bukan menyimpulkan sendiri. Kei dan Aya sama-sama menyebut koordinasi dan pembagian tugas yang berubah-ubah, lalu saya merangkumnya menjadi kebutuhan "pembagian tugas yang lebih jelas dari awal". Kei dan Aya menambahkan deadline internal, dan saya menutup dengan kesepakatan yang bisa dicek: deadline internal dan cek progress sebelum deadline utama. Kesepakatan ini sejalan dengan problem statement bahwa pemahaman dan pembagian kerja harus disamakan sejak awal. Batas evidence: chat ini menunjukkan kesepakatan, belum bukti bahwa kesepakatan sudah dijalankan pada deadline berikutnya.
+
+### Bukti chat pelaksanaan kesepakatan
+
+**Tanggal:** 01/10/2026
+**Target:** Kei dan Aya
+
+```text
+Fayza: Guys, sesuai kesepakatan yang kita buat sebelumnya, hari ini kita coba langsung pakai pembagian tugas yang udah kita atur ya.
+Kei: Okee, aku fokus bagian case yang keluar dulu.
+Aya: Aku lanjut cek bagian pitch sama alurnya ya.
+Fayza: Oke, aku kerjain bagian yang udah jadi tanggung jawabku. Jadi nanti kita tinggal gabungin.
+Kei: Menurutku jadi lebih enak sih, nggak numpuk di satu orang.
+Aya: Iya, lebih cepat juga karena kita bisa ngerjain bagian masing-masing barengan.
+Fayza: Nah iya, berarti cara ini kita lanjutkan buat pengerjaan berikutnya.
+```
+
+Chat ini menunjukkan kesepakatan pembagian tugas benar dijalankan: masing-masing mengambil bagian yang jelas (Kei di bagian case, Aya di pitch dan alur, saya di bagian tanggung jawab saya), lalu digabungkan. Kei dan Aya sendiri menyebut cara ini lebih enak dan lebih cepat karena bagian dikerjakan bersamaan. Batas evidence: ini penilaian anggota tim pada satu sesi kerja, bukan ukuran waktu pengerjaan.
+
 ### Lima pertanyaan discovery dan yang didengar
 
 | Pertanyaan | Yang saya dengar |
@@ -123,6 +157,22 @@ Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampa
 > "Tim membutuhkan cara untuk menyamakan pemahaman masalah dan solusi case sejak awal, karena penyusunan solusi yang dilakukan sendiri-sendiri menyebabkan integrasi ide memakan waktu lama dan membuat pengerjaan pitching mepet deadline."
 
 Kei dan Aya turut menyampaikan root cause ini dalam percakapan, sehingga problem statement di atas merupakan simpulan bersama, bukan kesimpulan sepihak saya.
+
+**Bukti chat konfirmasi problem statement**
+
+**Tanggal:** 29/09/2026
+**Target:** Kei dan Aya
+
+```text
+Fayza: Aku mau memastikan lagi problem yang kita bahas kemarin. Menurutku masalah utamanya itu kita masih sering nyusun solusi masing-masing, jadi pas mau bikin pitch malah baru disatuin dan waktunya jadi mepet deadline.
+Kei: Iya, aku setuju. Kemarin juga bagian yang kita kerjain masih beda-beda arahnya.
+Aya: Setuju. Menurutku memang dari awal kita perlu nyamain pemahaman masalah sama solusi yang mau dibawa.
+Fayza: Berarti kita sepakati problem statement-nya, tim masih belum menyamakan pemahaman masalah dan solusi sejak awal sehingga pengerjaan pitch jadi mendekati deadline?
+Kei: Iya, setuju.
+Aya: Setuju juga. Menurutku itu sudah menggambarkan masalah kita.
+```
+
+Saya mengusulkan rumusan masalah, lalu mengeceknya lagi dalam bentuk kalimat problem statement sebelum dianggap final. Kei dan Aya masing-masing menyatakan setuju dengan kata-kata sendiri (Kei: bagian yang dikerjakan "beda-beda arahnya"; Aya: perlu "nyamain pemahaman masalah sama solusi"), jadi konfirmasinya bukan sekadar "iya". Rumusan ini menyebut masalah dan hasil yang dibutuhkan tanpa menetapkan solusi, sesuai batas tahap discovery.
 
 ### Jejak perubahan pemahaman selama discovery
 
@@ -171,7 +221,7 @@ Kesepakatan tindak lanjut dapat dievaluasi melalui tiga indikator: diskusi inti 
 
 **Feedback yang diterima:** Kedepannya tim kami harus lebih memperhatikan timeline dan melaksanakan penyusunan masalah dan solusi bersama. Kei dan Aya juga menambahkan bahwa kami semua, termasuk saya, harus bisa latihan pitching minimal dua hari sebelum hari-H, bukan mepet di akhir.
 
-**Hasil adaptasi:** Setelah kesepakatan ini dijalankan, pengerjaan lomba menjadi lebih efisien dan cepat.
+**Hasil adaptasi:** Setelah kesepakatan dijalankan (chat 01/10/2026), Kei dan Aya menyebut pembagian tugas yang jelas membuat pengerjaan lebih enak dan lebih cepat karena bagian dikerjakan bersamaan.
 
 **Adaptation/replay:** Ke depannya, tim akan langsung bertemu saat case kompetisi berikutnya rilis, untuk mendiskusikan permasalahan inti dan solusi bersama sebelum masing-masing menyusun ide sendiri.
 
