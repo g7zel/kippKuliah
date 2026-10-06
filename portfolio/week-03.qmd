@@ -2,170 +2,69 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap dinilai"
-self_score: 20
-assessor_score: "-"
-description: "Evidence listening, boundary, request, atau repair."
-categories: [Fondasi, Relationship]
+self_score: "20"
+assessor_score: "—"
+description: "Evidence percakapan personal, listening, penentuan batasan (boundary), dan perbaikan hubungan."
+categories: [Fondasi, Inter-Personal]
 ---
 
 ## Kompetensi target
 
 Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
 
-## Evidence wajib
+## Konteks dan Relationship State
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+Saya dan "Meysila" adalah rekan satu tim dalam persiapan lomba Business Case Competition (BCC). Malam itu, kami mengalami jalan buntu (*deadlock*) dalam menentukan ide solusi mana yang akan diangkat. Saya bersikeras dengan ide inovatif, sementara Meysila skeptis.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**State sebelum percakapan:** Ketegangan mulai memuncak. Saya merasa ide saya yang paling brilian, sementara Meysila terkesan "menghambat". Jika dibiarkan, konflik ego ini bisa menghancurkan *mood* kerja tim dan menggagalkan *submission* tugas. *Objective* saya adalah meredam ego saya sendiri, memahami inti penolakan Meysila secara rasional, dan menemukan titik tengah tanpa menyinggung personalnya.
 
-## Konteks performance
+## Potongan Transcript Percakapan 
 
-**Tanggal dan setting:** juli 2024, percakapan dengan Mey (Sekretaris Jenderal MPK) di sela rapat organisasi.
+> **Meysila:** "fay, jujur ide lo kemaren keren banget inovasinya, tapi gw takut kita ga keburu nulis paper ngerjain market analysisnya krn datanya susah dicari."
+> **Saya (Listening & Paraphrase):** "halo meyy, jadi sebenernya yang bikin lo ragu ide itu karena khawatir waktunya ga cukup krn deadline mepet ya?"
+> **Meysila:** "iyaa bener banget fay, gw cemas ntar malah ga submit krn ga selesai."
+> **Saya (Boundary & Proposal):** "paham meyy, ketakutan lo masuk akal sih krn emang mepet bgt. daripada kita stuck ngerasa ide masing2 paling bener, gimana kalo kita masukin semua ide kita ke decision matrix aja? ntar kita skor pake bobot: Inovasi (30%), Feasibility Waktu (40%), sama Bisnis (30%). skor siapa yg plg gede itu yg kita gas. deal?"
+> **Meysila (Agreement):** "nahhh mantap setuju!! lebih objektif jadinya, gw setuju pake matrix aja."
 
-**Persons dan relationship:** Saya (Ketua) dan Mey (Sekjen), teman dekat yang juga teman sekelas. Relasi kerja kami saling membutuhkan karena peran Ketua dan Sekjen memang harus berjalan beriringan.
+## Analisis Listening, Boundary, dan Repair
 
-**Objective dan initial state:** Saya ingin menyampaikan kebutuhan bantuan menyusun proposal MPK, tanpa merasa tidak enak atau seolah merepotkan. State awal saya adalah kebiasaan menyelesaikan segala sesuatu sendiri sebagai anak pertama yang mandiri, sehingga meminta bantuan awalnya terasa berat.
+Dalam insiden ini, saya awalnya ingin membalas dengan sikap defensif. Namun, saya menerapkan teknik mendengarkan aktif. Saya menggunakan **Parafrasa (Tingkat 2)** untuk memastikan saya menangkap pesannya, lalu memvalidasi perasaan dan kebutuhannya **(Tingkat 3 - Emosi & Pribadi)** bahwa ia merasa *cemas* karena *butuh kepastian tenggat waktu*.
 
-## Evidence
+Saya *memahami* kekhawatirannya, namun saya juga menerapkan *boundary* agar inovasi tidak langsung dibuang begitu saja.
+**Repair & Adaptation:** Untuk menyelesaikan benturan ego, saya menawarkan solusi netral berupa *Decision Matrix* berbobot (menitikberatkan pada feasibilitas waktu). 
+**Agreement:** Kami sepakat untuk tunduk pada angka matriks, sehingga keputusan tidak didasarkan pada asumsi personal.
 
-::: {.evidence-block}
-### Latar belakang
+## Relationship Outcome dan Evidence
 
-Sejak dulu saya terbiasa mandiri dan awalnya sulit meminta bantuan, termasuk dalam konteks organisasi. Seiring berjalannya kepengurusan MPK, saya sadar bahwa organisasi tidak bisa berjalan baik kalau saya terus mengerjakan semuanya sendiri. Ini mendorong saya untuk mulai terbuka mengomunikasikan kebutuhan, khususnya kepada Mey sebagai Sekjen yang perannya memang berpasangan dengan Ketua.
-
-### Transcript percakapan
-
-> **Fayza:** "Mey boleh kah aku minta tolong untuk membuat proposal MPK berdasarkan hasil rapat kemarin?"
-> **Mey:** "Okay Fay, sore ini kita susun bersama ya."
-> **Fayza:** "Terima kasih Meyy!!"
-
-Pembagian kerja: sore itu, Mey mengerjakan sebagian besar draf proposal, sementara saya fokus memimpin rapat untuk menentukan rencana keberjalanan program kerja terlebih dahulu, lalu menyusul membantu bagian yang berkaitan dengan hasil rapat tersebut.
-
-Tidak ada momen *repair* dalam percakapan ini, topik yang saya latih di sini adalah meminta bantuan, bukan memperbaiki relasi yang rusak.
-
-### Analisis relationship state dan O-F-N-R
-
-| Aspek | Analisis |
-|---|---|
-| Relationship state sebelum | Dekat dan saling percaya (teman sekelas dan pasangan Ketua-Sekjen), tetapi saya terbiasa tidak menyatakan kebutuhan sehingga Mey tidak tahu saya butuh bantuan. |
-| Relationship state sesudah | Lebih jelas dan lebih mampu bertindak: pembagian kerja terbentuk, dan Mey tahu bahwa meminta tolong kepadanya aman. |
-| Observation | Hasil rapat kemarin belum menjadi proposal. |
-| Feeling | Tidak enak merepotkan dan sedikit kewalahan (dari kebiasaan mandiri). |
-| Need | Bantuan penyusunan proposal supaya saya bisa fokus memimpin rapat program kerja. |
-| Request | "Boleh kah aku minta tolong untuk membuat proposal MPK berdasarkan hasil rapat kemarin?" Ini berbentuk permintaan yang memberi ruang untuk menolak, bukan tuntutan. |
-| Listening | Mey menjawab dengan tindakan ("sore ini kita susun bersama"). Saya membaca kesediaannya lewat nada dan responsnya yang langsung menawarkan waktu. |
-
-### Latihan listening tanpa memperbaiki (LK 3): isi setelah dilakukan
-
-**Naskah persiapan (5-10 menit, dengan satu teman atau anggota keluarga):**
-
-1. Minta pasangan bercerita 3 menit tentang satu keresahan ringan. Larang diri memberi saran.
-2. Ajukan maksimal 2 pertanyaan terbuka, mis. "Bagian mana yang paling berat buat kamu?"
-3. Parafrasa: "Kalau aku tidak salah tangkap, yang bikin berat itu … ya?"
-4. Tebak perasaan secara tentatif: "Sepertinya kamu merasa … karena … penting buat kamu?"
-5. Pertanyaan emas: "Kamu ingin didengarkan saja, dibantu memikirkan pilihan, atau butuh saran dariku?"
-6. Minta umpan balik: kapan terasa didengarkan, dan kapan saya terlalu cepat menyimpulkan.
-
-| Catatan latihan | Isi |
-|---|---|
-| Mitra dan tanggal | Natasha (teman), 29 September 2026 |
-| Tingkat 1, kata (fakta yang diceritakan) | Minggu ini tugas kami banyak deadline dan minggu depan ada kuis. Natasha merasa waktu berjalan sangat cepat, tetapi ia tetap mengerjakan tugas-tugas dulu secara seadanya, dan mencoba menjadwalkan belajar bersama teman-temannya yang jago di mata kuliah yang akan diujikan. |
-| Tingkat 2, makna (parafrasa saya) | Tidak dilakukan. Saya tidak merangkum ulang ceritanya untuk dikonfirmasi. Ini bahan perbaikan. |
-| Tingkat 3, pribadi (perasaan dan kebutuhan yang saya tebak) | Tidak disebutkan secara tentatif. Dari ceritanya, Natasha merasa waktu berjalan sangat cepat dan tertekan oleh banyaknya deadline. |
-| Pilihan mitra atas pertanyaan emas | Natasha memilih "denger aja" (tidak butuh saran). |
-| Umpan balik: momen paling hadir | Setelah selesai bercerita, ekspresi Natasha menjadi lebih lega, dan ia juga mengatakan bahwa ia merasa lega setelah selesai bercerita. |
-| Umpan balik: momen buru-buru memperbaiki | Saya sempat tergoda memberi solusi, tetapi menahannya karena tahu Natasha biasanya sudah punya solusi sendiri. |
-| Komitmen 14 hari | Dalam 14 hari ke depan, setiap kali teman atau keluarga bercerita, saya akan melakukan satu parafrasa dan satu tebakan perasaan secara tentatif ("kayaknya kamu … karena …, bener?") sebelum bertanya "mau didengerin aja atau butuh saran?". Target: minimal 3 kali, dan saya akan meminta umpan balik dari satu orang. |
-
-**Pembuka percakapan.** Saya mulai dengan bertanya, "Sha, kamu kenapa kok kayak diem gitu dari tadi?" Pertanyaan ini lahir dari pengamatan: Natasha biasanya ceria dan cerewet, tetapi hari itu lebih diam. Saya sendiri cemas melihat perubahan itu. Pertanyaan terbuka tadi memberi Natasha ruang untuk bercerita tanpa harus menjelaskan dirinya dulu.
-
-**Menahan solusi dan mengeceknya.** Saya menahan diri memberi solusi dengan alasan Natasha "selalu punya solusi sendiri". Itu asumsi saya, jadi saya mengujinya dengan bertanya apakah ia hanya ingin didengar atau butuh saran. Natasha menjawab "denger aja", sehingga asumsi itu terkonfirmasi oleh jawabannya, bukan hanya oleh perkiraan saya. Cerita Natasha juga sesuai dugaan: ia tetap mengerjakan tugas seadanya dulu, lalu menjadwalkan belajar bersama teman yang jago di mata kuliah kuis.
-
-**Batas dalam sesi ini.** Saya sudah menduga cerita Natasha akan tentang tugas karena kami sekelas. Dugaan itu ternyata benar, tetapi saya tidak merangkum ulang atau menebak perasaannya untuk diperiksa, sehingga bagian *makna* dan *pribadi* belum diuji langsung. Saya juga tidak tahu apakah ada hal lain di balik diamnya selain tugas. Pada percakapan berikutnya, saya akan menyebut satu parafrasa dan satu tebakan perasaan secara tentatif ("kayaknya kamu kewalahan karena …, bener?") sebelum menanyakan pertanyaan emas.
-
-**Sinyal halus.** Saya menangkap perubahan pada Natasha (diam, tidak seperti biasanya) sebelum ia menyatakan apa pun secara eksplisit. Setelah bercerita, ekspresinya berubah menjadi lebih lega.
-
-*Memahami vs menyetujui:* Dalam percakapan dengan Natasha, saya memahami dulu situasinya, baru menanyakan apakah ia butuh saran atau hanya ingin didengar. Urutan itu penting: saya mendengar alasannya lebih dulu, yaitu banyak deadline, waktu terasa cepat, dan ia memilih mengerjakan tugas seadanya dulu sambil menjadwalkan belajar bersama teman yang jago di mata kuliah kuis. Dalam kasus ini saya juga menilai strateginya tepat, jadi memahami dan menyetujui kebetulan berjalan bersamaan. Tetapi saya belajar bahwa keduanya tidak harus sama. Pemahaman saya tidak bergantung pada apakah saya setuju dengan caranya, dan saya tidak perlu menilai strateginya sebelum ia selesai bercerita. Yang saya lakukan adalah memvalidasi pengalamannya (waktu terasa berjalan cepat) tanpa menyodorkan penilaian atau solusi.
-
-### Mengelola prioritas yang bersaing
-
-Saat itu saya masih SMA, jadi bukan soal SKS kuliah, tetapi ada masa-masa timeline pengerjaan MPK bertabrakan dengan tugas sekolah. Dalam situasi itu, saya harus menyusun skala prioritas: memutuskan mana yang harus saya selesaikan lebih dulu di antara tanggung jawab organisasi dan tanggung jawab akademik. Respons dari Mey dan tim terhadap kondisi ini adalah saling memahami dan saling meng-*handle*, kalau saya sedang fokus ke tugas sekolah, tim mengerti dan menutupi bagian saya, dan saya melakukan hal yang sama untuk anggota tim yang sedang kewalahan. Intinya, itu semua bisa berjalan karena komunikasi terbuka soal kapasitas masing-masing, bukan asumsi sepihak.
-
-### Bagaimana saya mengelola authority sebagai ketua
-
-Sebagai ketua, saya sering kali sudah punya gambaran keputusan yang akan diambil sebelum berdiskusi. Meski begitu, saya tetap membahasnya dengan tim terlebih dahulu, termasuk hal yang mendesak sekalipun, karena saya percaya organisasi berjalan lebih baik saat tim merasa dilibatkan dalam setiap kemajuan MPK. Perbedaan pendapat justru saya anggap sesuatu yang diharapkan, karena dari situ berbagai sudut pandang bisa muncul. MPK sendiri punya aturan bahwa segala keputusan harus disetujui berdasarkan demokrasi dan kedamaian; kalau ada perdebatan, penyelesaiannya lewat negosiasi kekeluargaan, bukan keputusan sepihak dari saya sebagai ketua.
-:::
-
-## Analisis komunikasi
-
-| Elemen | Evidence dan analisis |
-|---|---|
-| Person & character | Mey adalah teman dekat sekaligus rekan kerja (Sekjen) yang perannya melengkapi peran saya sebagai Ketua. Kedekatan personal membuat permintaan bantuan terasa lebih aman untuk dicoba pertama kali. |
-| Objective & state | Objective saya adalah menyampaikan kebutuhan secara langsung, tanpa berputar-putar atau menyamarkannya sebagai basa-basi. Saya juga mengelola dua tanggung jawab yang bersaing (organisasi dan sekolah) dengan menyusun skala prioritas saat timeline keduanya bertabrakan, alih-alih memaksakan diri mengerjakan semuanya sekaligus. |
-| Repertoire & language | Saya memakai permintaan langsung dan sopan ("boleh kah aku minta tolong"), bukan sindiran atau menahan diri seperti kebiasaan saya sebelumnya. |
-| Response & adaptation | Mey merespons cepat dan positif ("okay Fay, sore ini kita susun bersama"), yang langsung membentuk kesepakatan kerja tanpa perlu negosiasi panjang. |
-| Agreement/action | Disepakati: proposal disusun sore itu, dengan Mey mengerjakan bagian utama penulisan proposal dan saya berfokus pada hasil rapat serta rencana program kerja. Ini juga mencerminkan pola kerja saya sebagai ketua: tetap melibatkan tim untuk berdiskusi walau saya sudah punya arah keputusan, dan menyelesaikan perbedaan pendapat lewat negosiasi kekeluargaan sesuai aturan demokrasi organisasi. |
-| Relationship outcome | Skor kedekatan saya dengan Mey naik dari 6/10 sebelum menjabat bersama menjadi 9.7/10 setelahnya. Selain karena kami sekelas, keterbukaan dalam meminta dan memberi bantuan di organisasi memperkuat relasi kerja ini. |
-
-### Pendalaman analisis: mendengar, memeriksa, dan menggunakan posisi
-
-Percakapan dengan Natasha menunjukkan bahwa mendengar aktif terdiri dari beberapa tahap yang tidak boleh saya samakan: memperhatikan cerita, memparafrasakan makna, memeriksa dugaan tentang perasaan, lalu menanyakan bentuk dukungan yang diinginkan. Dalam latihan ini, saya berhasil menahan dorongan memberi solusi dan menanyakan apakah ia ingin didengar. Namun, saya belum melakukan parafrasa dan pemeriksaan perasaan secara eksplisit. Mengakui celah tersebut membuat evaluasi lebih akurat dan memberi sasaran latihan yang spesifik.
-
-Saya juga belajar bahwa sinyal nonverbal seperti diam atau perubahan ekspresi merupakan petunjuk, bukan bukti pasti tentang keadaan seseorang. Respons yang bertanggung jawab adalah mengajukan pertanyaan dengan nada terbuka dan memberi ruang bagi orang tersebut untuk mengoreksi dugaan saya. Hal ini mencegah empati berubah menjadi asumsi.
-
-Dalam peran ketua, authority dapat memengaruhi seberapa aman anggota menyampaikan ketidaksetujuan. Karena itu, melibatkan tim bukan hanya meminta persetujuan setelah keputusan terbentuk, melainkan membuka diskusi sebelum keputusan final, merangkum pandangan yang berbeda, dan memastikan anggota memiliki kesempatan berbicara. Praktik ini menjaga kualitas keputusan sekaligus hubungan kerja.
-
-## Penggunaan AI
-
-AI tidak digunakan untuk menyusun isi percakapan, karena transcript ini melibatkan orang lain (Mey) dan menyangkut hal personal. Claude hanya membantu merapikan tabel analisis dari cerita yang saya sampaikan. Nama, isi permintaan, dan hasil kesepakatan sepenuhnya berasal dari kejadian nyata.
-
-## Feedback dan tindak lanjut
-
-**Feedback yang diterima:** Mey bilang aku jadi lebih enak diajak kerja sama sekarang, karena segala hal tentang organisasi itu semuanya dilibatkan. Ini sejalan dengan pengalaman saya sendiri: saya jadi seorang ketua yang selalu bertanya pada sekretaris jenderal dan tidak pernah memutuskan keputusan organisasi tanpa timnya tahu.
-
-**Feedback dari Natasha (latihan listening):** Bagian yang membuat ia nyaman adalah saat saya mendengarkan seluruh masalahnya dan memperhatikannya dengan baik. Ia juga mengatakan merasa lega setelah selesai bercerita.
-
-**Adaptation/replay:** Setelah ini, saya belajar untuk mendelegasikan tugas ke orang yang tepat, karena pada akhirnya tugas seorang ketua adalah mengatur dan melibatkan tim, bukan mengerjakan semuanya sendiri.
-
-**Next practice:** Terus melatih diri meminta bantuan secara eksplisit kepada rekan organisasi lain, tidak hanya kepada Mey, agar kebiasaan mandiri tidak menghambat kerja tim secara keseluruhan.
-
-
-### Catatan observasi relationship state sebelum dan sesudah percakapan
-
-Agar analisis tidak hanya bergantung pada skor kedekatan atau kesan pribadi, saya memisahkan hal yang teramati dari interpretasi saya. Catatan berikut menggunakan percakapan dengan Mey dan latihan listening dengan Natasha yang sudah dijelaskan di atas.
-
-| Momen | Hal yang dapat diamati | Interpretasi yang saya buat | Batas kesimpulan |
-|---|---|---|---|
-| Sebelum meminta bantuan kepada Mey | Proposal dari hasil rapat belum tersusun, sementara saya perlu memimpin rapat program kerja. | Saya merasa tidak enak merepotkan orang lain dan cenderung menyelesaikan semuanya sendiri. | Perasaan ini saya ketahui dari refleksi diri, bukan dari pengamatan Mey. |
-| Saat meminta bantuan | Saya menyampaikan permintaan secara langsung. Mey menjawab, “Okay Fay, sore ini kita susun bersama ya.” | Respons tersebut menunjukkan kesediaan membantu dan membuat pembagian kerja menjadi jelas. | Saya tidak menyimpulkan seluruh keadaan emosional Mey hanya dari satu jawaban. |
-| Setelah kesepakatan | Mey mengerjakan sebagian besar draf, sementara saya memimpin rapat dan menyusul bagian yang terkait hasil rapat. | Komunikasi membuat kebutuhan dan tanggung jawab masing-masing lebih jelas. | Ini membuktikan koordinasi pada tugas tersebut, bukan perubahan permanen dalam kedekatan hubungan. |
-| Sebelum berbicara dengan Natasha | Natasha yang biasanya ceria dan banyak bicara tampak lebih diam. | Saya menduga ada sesuatu yang mengganggu, tetapi belum mengetahui penyebabnya. | Diam adalah sinyal untuk bertanya, bukan bukti pasti tentang perasaan atau masalahnya. |
-| Setelah Natasha bercerita | Ia mengatakan ingin didengarkan, dan setelah bercerita ekspresinya tampak lebih lega. | Memberi ruang tanpa langsung menawarkan solusi tampaknya sesuai dengan kebutuhan saat itu. | Saya tidak mengklaim bahwa semua masalahnya selesai; yang teramati adalah ia merasa lebih lega setelah bercerita. |
-
-Dari dua interaksi tersebut, saya belajar bahwa *relationship state* lebih aman dianalisis melalui perubahan perilaku dan respons yang spesifik daripada angka kedekatan saja. Saya juga perlu menyebutkan sumber setiap kesimpulan: ucapan langsung, perilaku yang terlihat, atau refleksi internal. Pemisahan ini membuat analisis lebih dapat diperiksa dan mengurangi risiko menganggap interpretasi saya sebagai fakta.
-
+- **State sesudah percakapan:** Meysila merasa didengarkan dan lega karena tenggat waktu menjadi prioritas bersama. Tim tidak jadi terpecah belah, melainkan kembali kooperatif dengan alat pengambilan keputusan yang terukur.
+- *(Catatan Penggunaan AI: AI hanya digunakan untuk memverifikasi kesesuaian parameter matriks, bukan untuk merancang teks perdebatan. Privasi tim tetap terjaga).*
 
 ## Self-assessment
 
-*Usulan skor, silakan disesuaikan.*
-
-| Dimensi | Skor 1-4 | Evidence singkat |
+| Dimensi | Skor | Alasan / Evidence Singkat |
 |---|---:|---|
-| Person & Character | 4 | Relasi Ketua-Sekjen dikenali, dan perubahan Natasha dari biasanya ceria menjadi diam dibaca sebagai perubahan konteks |
-| Objective & State | 4 | Mengelola dua tanggung jawab yang bersaing (organisasi vs. sekolah) dengan menyusun skala prioritas saat timeline bertabrakan |
-| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan terbuka dan pertanyaan emas untuk memberi ruang bagi lawan bicara menjelaskan kebutuhannya. Saya juga membedakan hal yang saya amati dari dugaan tentang perasaan orang lain, sehingga bahasa yang dipilih tidak mengunci makna sebelum diklarifikasi. |
-| Response & Adaptation | 4 | Ketika Natasha yang biasanya ceria menjadi diam, saya menangkap perubahan tersebut dan memilih menahan dorongan untuk langsung menawarkan solusi. Saya menggunakan sinyal itu sebagai alasan untuk lebih memperhatikan konteks, bukan sebagai kesimpulan tentang perasaannya. Pengalaman ini menjadi dasar untuk membiasakan klarifikasi secara langsung pada percakapan berikutnya. |
-| Agreement, Action & Relationship | 4 | Authority sebagai ketua dikelola sadar (berdiskusi walau sudah punya arah), dan permintaan bantuan berujung kesepakatan kerja yang jelas |
+| Person & Character | 4 | Membedakan ego ide personal dengan kebutuhan tim (feasibilitas batas waktu lomba). |
+| Objective & State | 4 | State perdebatan ego ditransformasikan menjadi kolaborasi pengambilan keputusan yang sangat objektif. |
+| Repertoire, Language & AI | 4 | Paraphrase empatik digunakan untuk memvalidasi ketakutan rekan ("takut ga keburu") sebelum mengusulkan solusi teknis. |
+| Response & Adaptation | 4 | Mengadaptasi *deadlock* menjadi *win-win solution* menggunakan metodologi penilaian *Decision Matrix*. |
+| Agreement, Action & Relationship | 4 | *Agreement* tercapai secara logis. Ikatan profesional tim terselamatkan dari potensi perpecahan di masa kritis lomba. |
 
-**Total:** 20 / 20
+**Total: 20/20 — Sangat Kompeten.**
 
-::: {.assessor-only}
-### Assessment dosen
+{{< include ../includes/evidence-template.md >}}
 
+***
+
+## Evidence Tambahan
+**Bukti Transkrip Chat Asli Resolusi Konflik (BCC):**
+> **[15/09/26, 20:10:05] Meysila:** fay, jujur ide lo kemaren keren banget inovasinya, tapi gw takut kita ga keburu nulis paper ngerjain market analysisnya krn datanya susah dicari. 
+> **[15/09/26, 20:12:15] Fayza:** halo meyy, jadi sebenernya yang bikin lo ragu ide itu karena khawatir waktunya ga cukup krn deadline mepet ya?
+> **[15/09/26, 20:13:00] Meysila:** iyaa bener banget fay, gw cemas ntar malah ga submit krn ga selesai
+> **[15/09/26, 20:15:30] Fayza:** paham meyy, ketakutan lo masuk akal sih krn emang mepet bgt. daripada kita stuck ngerasa ide masing2 paling bener, gimana kalo kita masukin semua ide kita ke decision matrix aja?
+> **[15/09/26, 20:16:15] Fayza:** ntar kita skor pake bobot: Inovasi (30%), Feasibility Waktu (40%), sama Bisnis (30%). skor siapa yg plg gede itu yg kita gas. deal?
+> **[15/09/26, 20:18:20] Meysila:** nahhh mantap setuju!! lebih objektif jadinya, gw setuju pake matrix aja.
+
+::: {.callout-note title="Penilaian Asesor"}
 **Skor:** - / 20
 **Evidence yang mendukung:** -
 **Prioritas perbaikan:** -

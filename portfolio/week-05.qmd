@@ -1,259 +1,70 @@
 ---
-title: "Professional Discovery Interview"
+title: "Discovery Interview Journal"
 week: 5
 status: "Siap dinilai"
-self_score: 20
-assessor_score: "-"
-description: "Discovery menuju shared problem statement."
-categories: [Professional, Discovery]
+self_score: "20"
+assessor_score: "—"
+description: "Evidence penggalian akar masalah (discovery), perubahan asumsi, dan perumusan problem statement."
+categories: [Fondasi, Discovery]
 ---
 
-## Kompetensi target
+## Initial Assumption dan Rencana Discovery
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Sebagai desainer UI/UX untuk *project* Nusatani, saya **berasumsi** bahwa para petani di pedesaan membutuhkan *dashboard* aplikasi seluler yang canggih, kaya fitur visual, dan memuat berbagai grafik analisis data untuk memantau sawah mereka. Saya mewawancarai "Nabila", rekan yang mewakili sudut pandang kondisi *user* lapangan, untuk menguji rancangan awal tersebut sebelum saya membuat *High-Fidelity* desain di Figma.
 
-## Evidence wajib
+**Pertanyaan utama (Discovery):**
+1. Menurutmu, apakah petani di lapangan bakal sering buka HP untuk ngecek grafik?
+2. Secara fisik, apa saja rintangan mereka saat memegang HP di sawah?
+3. Masalah lingkungan alam apa yang mengganggu visibilitas?
+4. Apa kondisi yang paling ideal atau aman untuk pekerjaan mereka?
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+## Potongan Transcript Wawancara
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+> **Saya:** "bilaa, gw mau nanya dong untuk riset UI UX gw. menurut lo kalo petani di lapangan dikasih dashboard aplikasi di HP yg isinya grafik kelembapan tanah, mereka bakal sering buka ga sih?"
+> **Nabila:** "hmm jujur kayanya ngga deh fay. lo bayangin aja mereka kan lagi nyangkul, tangannya belepotan lumpur, masa iya harus lap tangan dulu buat scroll HP?"
+> **Saya (Penggalian Hambatan/Constraint):** "ohhh iya bener juga anjir, tangannya kotor ya.. trus kendala lainnya apa kira2 bil?"
+> **Nabila:** "cahaya matahari sih. di sawah kan panas mentereng, layar HP suka silau ga keliatan. mereka kynya butuh yg gaperlu dilihat langsung deh, pokoknya tau beres aja."
+> **Saya (Paraphrase Ide Baru):** "oh paham paham, berarti sebenernya mereka butuh cara biar tau tanahnya kritis tanpa harus nyentuh layar ya? misal alert bunyi suara / geter keras doang gitu?"
+> **Nabila:** "yuppp exactly! yg penting fungsional tanpa nambah ribet kerjaan mreka."
 
-## Konteks performance
+## Pembaruan Pembacaan
 
-**Tanggal dan setting:** 20 september 2026, sesi evaluasi tim (retro) bersama Kei dan Aya setelah mengikuti Business Case Competition, di mana tim kami berhasil masuk top 5 dari seluruh peserta.
+Asumsi awal saya tentang "petani butuh aplikasi grafis yang visual dan lengkap" hancur seketika oleh empati lapangan. Hasil *Discovery* membuktikan bahwa merancang desain dengan estetika visual tinggi justru berlawanan dengan realitas fisik petani (tangan kotor lumpur, layar terpapar matahari/*glare*). 
 
-**Persons dan relationship:** Saya, Kei, dan Aya adalah satu tim di kompetisi tersebut. Kami saling mewawancarai satu sama lain, jadi discovery ini bersifat dua arah, bukan satu pewawancara-satu narasumber.
+**Shared problem statement yang dikonfirmasi Nabila:**
+> "Petani yang bekerja di lapangan mengalami kesulitan memantau kelembapan tanah karena keterbatasan fisik (tangan berlumur lumpur) dan visibilitas layar (silau matahari terik). Mereka membutuhkan notifikasi berwujud peringatan sensorik pasif (seperti alarm suara atau getaran maksimum) yang dapat disadari seketika tanpa harus menyentuh layar perangkat mereka."
 
-**Objective dan initial state:** Kami ingin menemukan apa yang kurang maksimal dari proses penyusunan materi pitching hingga hari-H pitching, agar performa tim lebih baik di kompetisi berikutnya. State awal saya menduga penyebabnya hanya soal manajemen waktu.
+## Evidence, Penggunaan AI, dan Feedback
 
-## Evidence
-
-::: {.evidence-block}
-### Person/character map
-
-| Person | Character dalam tim | Objective | Authority |
-|---|---|---|---|
-| Fayza | Anggota tim sekaligus penengah | Menemukan penyebab sebenarnya | Setara, tanpa jabatan |
-| Kei | Anggota tim | Menjelaskan kesulitan menyamakan solusi | Setara |
-| Aya | Anggota tim | Mengevaluasi kekalahan tim | Setara |
-
-### Initial assumption
-
-Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadline yang terlalu mepet.
-
-### Pertanyaan discovery yang diajukan
-
-1. Saat case release, apakah ada masalah di awal penyusunan?
-2. Kenapa alasan kita jadi mepet deadline itu awalnya seperti apa?
-3. (lanjutan dari jawaban Kei) Apa yang membuat penyusunan solusi jadi lama?
-
-### Transcript percakapan
-
-> **Aya:** "Kita perlu evaluasi."
-> **Fay dan Kei:** "Oke, ayok."
-> **Fay:** "Kita mulai dari awal penyusunan ya..."
-> **Kei dan Aya:** "Oke."
-> **Fay:** "Saat case release itu kita ada masalah nggak?"
-> **Aya:** "Sebenernya nggak ada, tapi menurut aku tim kita kalah karena mengerjakan semuanya mepet deadline."
-> **Fay:** "Tapi alasan dari kita mepet deadline itu kenapa ya awalnya?"
-> **Kei:** "Oh aku tahu, kayaknya karena kita kesulitan menyamakan solusi. Ketika mulai menyusun pitch deck, kita malah fokus pada solusi masing-masing yang ternyata terlalu beragam."
-> **Fay:** "Oh iya juga, jadinya kita butuh waktu tambahan untuk menyamakan ide solusi dari tim kita ya."
-> **Aya:** "Betul! Makanya kita mepet deadline, karena kemarin saat pengerjaan revisiannya banyak banget."
-
-### Bukti chat: mengecek keraguan Kei
-
-**Tanggal:** 20/09/26
-**Target:** Kei
-
-```text
-[20/09/26, 16:02:11] Fayza: menurutku solusi yang paling cocok yang ini
-[20/09/26, 16:02:38] Kei: hmm, bisa sih... tapi aku kurang yakin kalau langsung pakai itu
-[20/09/26, 16:03:07] Fayza: bagian mana yang masih bikin ragu?
-[20/09/26, 16:03:42] Kei: takutnya kita malah menyelesaikan bagian yang bukan masalah utamanya
-[20/09/26, 16:04:13] Fayza: ohh berarti kita belum sepenuhnya sepakat soal masalah utamanya ya
-[20/09/26, 16:04:41] Kei: iya, kayaknya perlu dicek lagi
-[20/09/26, 16:05:09] Fayza: oke, kita samain dulu problem statement-nya sebelum pilih solusi
-[20/09/26, 16:05:32] Kei: nah itu lebih enak
-```
-
-Saya menangkap keraguan Kei sebelum berubah menjadi penolakan yang lebih besar. Daripada mempertahankan solusi saya, saya bertanya bagian mana yang membuatnya ragu, lalu mengecek kembali problem statement agar kami punya pemahaman yang sama sebelum memilih solusi.
-
-### Bukti chat tindak lanjut: retro tim sebelum lanjut lomba
-
-**Tanggal:** 29/09/2026
-**Target:** Kei dan Aya
-
-```text
-Fayza: Guys, sebelum lanjut lomba, kita retro bentar yuk. Menurut kalian kemarin bagian mana yang paling bikin lama?
-Kei: Menurutku koordinasi. Kadang kita baru tahu ada bagian yang belum dikerjain pas udah deket deadline.
-Aya: Aku setuju. Sama pembagian tugasnya kadang masih berubah-ubah.
-Fayza: Berarti kita perlu pembagian tugas yang lebih jelas dari awal ya.
-Kei: Iya, terus kasih deadline internal sebelum deadline asli.
-Aya: Biar masih ada waktu kalau ada revisi.
-Fayza: Okee, berarti next kita bikin deadline internal dan cek progress sebelum deadline utama.
-```
-
-Chat ini melanjutkan evaluasi tim di atas. Saya membuka dengan pertanyaan terbuka, bukan menyimpulkan sendiri. Kei dan Aya sama-sama menyebut koordinasi dan pembagian tugas yang berubah-ubah, lalu saya merangkumnya menjadi kebutuhan "pembagian tugas yang lebih jelas dari awal". Kei dan Aya menambahkan deadline internal, dan saya menutup dengan kesepakatan yang bisa dicek: deadline internal dan cek progress sebelum deadline utama. Kesepakatan ini sejalan dengan problem statement bahwa pemahaman dan pembagian kerja harus disamakan sejak awal. Batas evidence: chat ini menunjukkan kesepakatan, belum bukti bahwa kesepakatan sudah dijalankan pada deadline berikutnya.
-
-### Bukti chat pelaksanaan kesepakatan
-
-**Tanggal:** 01/10/2026
-**Target:** Kei dan Aya
-
-```text
-Fayza: Guys, sesuai kesepakatan yang kita buat sebelumnya, hari ini kita coba langsung pakai pembagian tugas yang udah kita atur ya.
-Kei: Okee, aku fokus bagian case yang keluar dulu.
-Aya: Aku lanjut cek bagian pitch sama alurnya ya.
-Fayza: Oke, aku kerjain bagian yang udah jadi tanggung jawabku. Jadi nanti kita tinggal gabungin.
-Kei: Menurutku jadi lebih enak sih, nggak numpuk di satu orang.
-Aya: Iya, lebih cepat juga karena kita bisa ngerjain bagian masing-masing barengan.
-Fayza: Nah iya, berarti cara ini kita lanjutkan buat pengerjaan berikutnya.
-```
-
-Chat ini menunjukkan kesepakatan pembagian tugas benar dijalankan: masing-masing mengambil bagian yang jelas (Kei di bagian case, Aya di pitch dan alur, saya di bagian tanggung jawab saya), lalu digabungkan. Kei dan Aya sendiri menyebut cara ini lebih enak dan lebih cepat karena bagian dikerjakan bersamaan. Batas evidence: ini penilaian anggota tim pada satu sesi kerja, bukan ukuran waktu pengerjaan.
-
-### Lima pertanyaan discovery dan yang didengar
-
-| Pertanyaan | Yang saya dengar |
-|---|---|
-| Apa yang sedang terjadi? | Pitch deck selesai mepet deadline dan revisinya banyak. |
-| Mengapa itu menjadi masalah? | Solusi tiap orang beragam sehingga integrasi memakan waktu. |
-| Siapa yang terdampak? | Kami bertiga, terutama kualitas dan persiapan pitching. |
-| Apa yang sudah dicoba? | Sebelum evaluasi, tim belum menyamakan solusi di awal. Masing-masing menyusun solusi sendiri lalu menyatukannya lewat banyak revisi menjelang deadline. |
-| Hasil seperti apa yang cukup baik? | Pemahaman masalah dan solusi disamakan sejak case rilis, dan latihan pitch minimal dua hari sebelum hari-H. |
-
-### Problem, impact, dan constraint
-
-- **Problem (root cause):** Penyusunan masalah dan solusi case tidak dilakukan bersamaan sejak awal. Kei, Aya, dan saya masing-masing memikirkan solusi sendiri-sendiri sebelum menyamakan pemahaman.
-- **Impact:** Solusi yang terlalu beragam membutuhkan waktu tambahan untuk diintegrasikan, revisi jadi banyak, dan akhirnya pengerjaan PPT pitching mepet deadline.
-- **Constraint:** Waktu pengerjaan case terbatas (sesuai jadwal kompetisi), sehingga proses menyamakan ide tidak bisa memakan waktu terlalu lama di awal.
-
-### Ketegangan dan peran menengahi
-
-Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampai saling berdebat tentang apa inti permasalahan sebenarnya, karena masing-masing merasa sudah mengerjakan bagiannya mati-matian tetapi hasilnya tidak juara. Dalam situasi ini saya yang biasanya menengahi. Cara saya adalah mencoba melihat setiap pendapat dari sudut pandang orang yang menyampaikannya, dan memahami apa yang sebenarnya ada di kepala mereka sebelum menyimpulkan siapa yang "benar". Pendekatan ini yang membantu diskusi bergerak dari saling mempertahankan pendapat menjadi menemukan root cause bersama.
-:::
-
-## Analisis komunikasi
-
-| Elemen | Evidence dan analisis |
-|---|---|
-| Person & character | Ketiganya berperan sebagai rekan setim yang setara, saling bertanya dan menjawab tanpa ada yang mendominasi. Saat diskusi memanas, saya mengambil peran menengahi dengan sengaja melihat masalah dari kacamata Kei dan Aya masing-masing, bukan langsung mempertahankan sudut pandang saya sendiri. |
-| Objective & state | Saya mengelola beberapa tujuan yang saling terkait: mengevaluasi hasil kompetisi tanpa saling menyalahkan, menemukan akar masalah yang dapat ditindaklanjuti, dan tetap mempertimbangkan batas waktu kompetisi. Saya memulai dari dugaan bahwa deadline yang mepet adalah masalah utama, tetapi menahan kesimpulan itu sampai mendapat informasi dari Kei dan Aya. Setelah diketahui bahwa ide solusi dikembangkan sendiri-sendiri, fokus diskusi bergeser dari mempercepat pengerjaan menjadi menyelaraskan pemahaman sejak awal. Perubahan fokus ini menjaga agar tindakan yang dipilih menyasar penyebab, bukan hanya gejala. |
-| Repertoire & language | Saya menggunakan pertanyaan terbuka bertahap, mulai dari memeriksa kondisi saat case dirilis, menelusuri alasan keterlambatan, lalu mengajukan pertanyaan lanjutan berdasarkan jawaban Kei tentang kesulitan menyamakan solusi. Saya tidak langsung mengarahkan tim pada jawaban yang saya inginkan. Saat Kei menjelaskan bahwa tiap anggota mengembangkan solusi berbeda, saya memparafrasakan kembali hubungan sebab-akibatnya dan Aya mengonfirmasi bahwa banyak revisi memang membuat tim semakin dekat dengan deadline. Penggunaan AI saya batasi untuk memahami kerangka dan merapikan draf; saya memeriksa kembali kesesuaian rumusan dengan transkrip dan kesepakatan nyata tim. |
-| Response & adaptation | Respons saya berubah mengikuti informasi yang muncul. Ketika Aya menyebut deadline mepet, saya tidak langsung menyetujui bahwa waktu adalah akar masalah, tetapi bertanya mengapa pekerjaan menjadi mepet. Setelah Kei menjelaskan bahwa solusi dikembangkan secara terpisah, saya mengulang pemahaman tersebut sebagai hubungan antara ide yang beragam, waktu integrasi, revisi, dan keterlambatan. Aya kemudian mengonfirmasi hubungan itu. Dengan demikian, adaptasi terlihat dalam urutan tindakan: menguji dugaan awal, menerima informasi baru, memparafrasakan, lalu menyatukan konfirmasi dari anggota lain. |
-| Agreement/action | Tim menyepakati langkah yang langsung menanggapi akar masalah: bertemu saat case dirilis untuk menyamakan pemahaman tentang masalah dan arah solusi sebelum setiap anggota mengembangkan ide sendiri. Kami juga menyepakati latihan pitching minimal dua hari sebelum hari-H. Kesepakatan ini dapat dievaluasi melalui waktu dimulainya diskusi, urutan penyelarasan ide sebelum pembagian tugas, jumlah revisi, dan kesiapan latihan. |
-| Relationship outcome | Evaluasi ini memperkuat kerja sama tim karena semua pihak merasa didengar dan akar masalah ditemukan bersama, bukan disalahkan ke satu orang. |
-
-### Shared problem statement yang dikonfirmasi
-
-*Versi formula (slide):* Tim (Fayza, Kei, Aya) mengalami penyusunan solusi yang dilakukan sendiri-sendiri, yang menyebabkan integrasi ide lama, revisi banyak, dan pengerjaan pitch mepet deadline, dalam constraint waktu kompetisi yang terbatas. Kami sepakat hasil yang dibutuhkan adalah pemahaman masalah dan solusi yang sama sejak awal, belum menentukan solution.
-
-*Versi awal:*
-
-> "Tim membutuhkan cara untuk menyamakan pemahaman masalah dan solusi case sejak awal, karena penyusunan solusi yang dilakukan sendiri-sendiri menyebabkan integrasi ide memakan waktu lama dan membuat pengerjaan pitching mepet deadline."
-
-Kei dan Aya turut menyampaikan root cause ini dalam percakapan, sehingga problem statement di atas merupakan simpulan bersama, bukan kesimpulan sepihak saya.
-
-**Bukti chat konfirmasi problem statement**
-
-**Tanggal:** 29/09/2026
-**Target:** Kei dan Aya
-
-```text
-Fayza: Aku mau memastikan lagi problem yang kita bahas kemarin. Menurutku masalah utamanya itu kita masih sering nyusun solusi masing-masing, jadi pas mau bikin pitch malah baru disatuin dan waktunya jadi mepet deadline.
-Kei: Iya, aku setuju. Kemarin juga bagian yang kita kerjain masih beda-beda arahnya.
-Aya: Setuju. Menurutku memang dari awal kita perlu nyamain pemahaman masalah sama solusi yang mau dibawa.
-Fayza: Berarti kita sepakati problem statement-nya, tim masih belum menyamakan pemahaman masalah dan solusi sejak awal sehingga pengerjaan pitch jadi mendekati deadline?
-Kei: Iya, setuju.
-Aya: Setuju juga. Menurutku itu sudah menggambarkan masalah kita.
-```
-
-Saya mengusulkan rumusan masalah, lalu mengeceknya lagi dalam bentuk kalimat problem statement sebelum dianggap final. Kei dan Aya masing-masing menyatakan setuju dengan kata-kata sendiri (Kei: bagian yang dikerjakan "beda-beda arahnya"; Aya: perlu "nyamain pemahaman masalah sama solusi"), jadi konfirmasinya bukan sekadar "iya". Rumusan ini menyebut masalah dan hasil yang dibutuhkan tanpa menetapkan solusi, sesuai batas tahap discovery.
-
-### Jejak perubahan pemahaman selama discovery
-
-| Tahap | Bukti percakapan | Perubahan pemahaman atau tindakan |
-|---|---|---|
-| Dugaan awal | Saya menduga PPT terlambat karena deadline terlalu mepet. | Saya memperlakukan keterlambatan sebagai gejala yang perlu ditelusuri, bukan langsung sebagai akar masalah. |
-| Menguji dugaan | Saya bertanya kepada Aya mengapa pekerjaan menjadi mepet. Aya menyebut banyak revisi, lalu saya menanyakan alasan awalnya. | Pertanyaan lanjutan menggeser diskusi dari penilaian hasil menuju proses yang menyebabkan keterlambatan. |
-| Informasi baru | Kei menjelaskan bahwa tiap anggota mengembangkan solusi berbeda sebelum menyamakan pemahaman. | Saya memperbarui dugaan: waktu integrasi dan revisi muncul karena solusi tidak diselaraskan sejak awal. |
-| Memeriksa pemahaman | Saya memparafrasakan hubungan antara perbedaan ide, tambahan waktu, dan deadline; Aya menyetujuinya. | Akar masalah menjadi pemahaman bersama, bukan hanya interpretasi saya terhadap jawaban Kei. |
-| Menentukan tindakan | Tim menyepakati diskusi bersama saat case dirilis dan latihan pitching minimal dua hari sebelum presentasi. | Tindakan diarahkan pada penyebab yang ditemukan dan memiliki indikator untuk evaluasi berikutnya. |
-
-Rangkaian ini menunjukkan bahwa discovery bukan sekadar mengumpulkan jawaban. Saya mengubah pertanyaan dan kesimpulan berdasarkan informasi baru, memeriksa parafrasa kepada anggota lain, lalu menghubungkan temuan dengan kesepakatan yang bisa diuji. Batasnya, keberhasilan jangka panjang dari kesepakatan tersebut masih perlu diperiksa pada kompetisi berikutnya.
-
-### Membaca sinyal halus: kerja kelompok bersama A
-
-*Kejadian ini berasal dari kerja kelompok tahun lalu, bukan dari sesi evaluasi tim di atas. Saya memakai inisial A untuk menjaga privasi.*
-
-Dalam kerja kelompok, A sangat lambat dan selalu mengerjakan milestone mepet deadline. Pada suatu momen, nada bicara A berubah dan ia menjadi diam dulu. Saya menangkap perubahan itu sebagai tanda ada sesuatu di balik keterlambatannya, bukan sekadar malas.
-
-| Isi | Catatan |
-|---|---|
-| Tanda halus yang muncul | Nada A berubah dan ia diam sejenak. |
-| Yang saya ucapkan lebih dulu | Saya bertanya apakah A sedang ada masalah, karena ia selalu mengerjakan tugas mepet deadline. Saya bertanya lebih dulu daripada menegur atau menyimpulkan. |
-| Dugaan kebutuhan saya | A kurang bisa membagi waktu. |
-| Apakah dugaan benar? Respons partner | Benar. A bercerita bahwa ia tidak bisa membagi waktu sehingga kewalahan mengerjakan semuanya. |
-| Yang saya ubah | Saya memecah milestone menjadi target yang lebih kecil, lalu memberi pengingat dan tenggat antara supaya A tidak menumpuk pekerjaan menjelang deadline. |
-
-**Analisis.** Tanda halus di sini adalah perubahan nada dan diam sejenak, bukan pernyataan eksplisit. Saya tidak langsung mencap A lambat atau tidak bertanggung jawab. Saya memakai pertanyaan terbuka untuk mengecek dugaan saya, sehingga ada ruang bagi A untuk menjelaskan. Dugaan saya terbukti, tetapi saya baru mengetahuinya setelah A yang mengonfirmasi. **Batas:** saya tidak tahu apakah ada penyebab lain selain pembagian waktu.
-
-### Pendalaman analisis: kualitas discovery dan kesepakatan tim
-
-Proses discovery mengubah fokus evaluasi dari gejala yang terlihat-pitch deck selesai mendekati tenggat-ke proses yang menghasilkan gejala tersebut, yaitu ide solusi dikembangkan secara terpisah sebelum tim menyamakan pemahaman. Perbedaan ini penting karena solusi yang hanya menargetkan kecepatan kerja belum tentu menyelesaikan kebutuhan koordinasi. Pertanyaan lanjutan membantu menguji asumsi awal dan menghindari kesimpulan yang terlalu cepat.
-
-Rumusan masalah bersama juga perlu dibedakan dari keputusan tentang solusi. Pada tahap ini, tim sudah menyepakati masalah dan hasil yang diinginkan, tetapi belum menetapkan satu solusi final. Menjaga batas tersebut membantu tim tidak melompat ke tindakan sebelum semua anggota memiliki pemahaman yang sama.
-
-Kesepakatan tindak lanjut dapat dievaluasi melalui tiga indikator: diskusi inti dilakukan segera setelah case dirilis; pembagian tugas baru dilakukan setelah pemahaman masalah dan arah solusi diselaraskan; serta latihan pitching dimulai setidaknya dua hari sebelum presentasi. Indikator ini membuat evaluasi kompetisi berikutnya lebih objektif. Jika hasil belum membaik, tim dapat meninjau kembali proses tanpa menyalahkan satu anggota.
-
-## Penggunaan AI
-
-- **Memahami materi:** Claude membantu saya memahami konsep problem, impact, constraint, dan shared problem statement.
-- **Menyusun draf:** di sesi ini, saya menyampaikan transcript evaluasi tim yang sebenarnya terjadi. Claude membantu merapikan susunan percakapan yang kemudian saya periksa kesesuaiannya dengan apa yang benar-benar dibicarakan.
-- **Yang berasal dari saya:** seluruh isi percakapan, root cause, dan rencana tindak lanjut tim.
-- **Pemeriksaan:** saya memastikan shared problem statement mencerminkan apa yang benar-benar disepakati Kei dan Aya, bukan tambahan asumsi dari saya sendiri.
-
-## Feedback dan tindak lanjut
-
-**Feedback yang diterima:** Kedepannya tim kami harus lebih memperhatikan timeline dan melaksanakan penyusunan masalah dan solusi bersama. Kei dan Aya juga menambahkan bahwa kami semua, termasuk saya, harus bisa latihan pitching minimal dua hari sebelum hari-H, bukan mepet di akhir.
-
-**Hasil adaptasi:** Setelah kesepakatan dijalankan (chat 01/10/2026), Kei dan Aya menyebut pembagian tugas yang jelas membuat pengerjaan lebih enak dan lebih cepat karena bagian dikerjakan bersamaan.
-
-**Adaptation/replay:** Ke depannya, tim akan langsung bertemu saat case kompetisi berikutnya rilis, untuk mendiskusikan permasalahan inti dan solusi bersama sebelum masing-masing menyusun ide sendiri.
-
-**Next practice:** Menerapkan kesepakatan ini di kompetisi berikutnya dan mengevaluasi apakah waktu pengerjaan pitching menjadi lebih longgar dari sebelumnya.
-
-
-### Analisis respons terhadap sinyal halus dan trade-off
-
-Dalam kerja kelompok bersama A, sinyal awal yang saya tangkap bukan pernyataan langsung bahwa ia kewalahan, melainkan perubahan nada bicara dan jeda diam. Saya memiliki dua kemungkinan respons: menegur keterlambatan yang terlihat atau bertanya terlebih dahulu untuk memahami konteksnya. Saya memilih bertanya. Setelah A menjelaskan kesulitannya membagi waktu, saya menyesuaikan dukungan dengan memecah milestone menjadi target yang lebih kecil dan memberi pengingat serta tenggat antara.
-
-Pilihan tersebut memiliki trade-off. Memberi pengingat dan target antara membutuhkan koordinasi tambahan dari saya, tetapi berpotensi mengurangi penumpukan pekerjaan menjelang tenggat. Saya juga perlu menjaga agar dukungan tidak berubah menjadi mengambil alih tanggung jawab A. Karena itu, pembagian milestone tetap menjadi alat bantu bagi A untuk mengelola pekerjaannya sendiri, bukan alasan bagi saya untuk mengerjakan bagiannya.
-
-Saya tidak dapat memastikan bahwa perubahan nada hanya disebabkan oleh masalah manajemen waktu. Hal itu baru menjadi dugaan yang lebih kuat setelah A menjelaskannya. Pelajaran yang saya ambil adalah merespons sinyal lemah dengan pertanyaan klarifikasi, lalu memilih tindakan yang mempertimbangkan kebutuhan partner dan kapasitas tim. Pada kerja kelompok berikutnya, saya akan mengecek apakah target antara membantu anggota lebih konsisten, tanpa membuat mereka merasa diawasi secara berlebihan.
-
+- **Penggunaan AI (*Review & Authority*):** Saya menggunakan AI setelah wawancara untuk mengevaluasi *problem statement* agar terbebas dari penyebutan "solusi spesifik" (contoh: awalnya saya menyebutkan "aplikasi Android bunyi", lalu AI membantu merumuskannya menjadi kemampuan fungsional: "peringatan sensorik pasif"). Hal ini melatih *authority* saya dalam membedakan masalah pengguna vs. solusi teknis.
+- **Feedback & Refleksi Desainer:** Keinginan saya memoles UI Figma dengan grafik warna-warni demi portofolio pribadi ternyata membutakan saya dari kebutuhan nyata (*user-centric*). Wawancara singkat ini menjadi momen krusial untuk melakukan *pivot* desain secara ekstrem menuju fungsionalitas murni.
 
 ## Self-assessment
 
-*Usulan skor, silakan disesuaikan.*
-
-| Dimensi | Skor 1-4 | Evidence singkat |
+| Dimensi | Skor | Alasan / Evidence Singkat |
 |---|---:|---|
-| Person & Character | 4 | Saat diskusi memanas, saya secara sadar mengambil peran menengahi dengan melihat masalah dari sudut pandang tiap orang |
-| Objective & State | 4 | Saya memulai dengan asumsi bahwa keterlambatan pitch deck berkaitan dengan timeline, lalu memperbarui pemahaman setelah mendengar bahwa ide solusi dikembangkan terpisah sebelum tim menyamakan arah. Saya membedakan gejala dari akar masalah dan mempertimbangkan dampaknya terhadap proses kerja tim. |
-| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan discovery terbuka untuk menggali masalah dari dugaan awal menuju penyebab yang lebih spesifik. Peran AI dijelaskan secara transparan sebagai bantuan memahami konsep dan merapikan draf, lalu isi percakapan diperiksa kembali agar tetap sesuai dengan pembicaraan yang sebenarnya. |
-| Response & Adaptation | 4 | Jawaban Kei mengubah pemahaman, dan pada kasus A saya menangkap perubahan nada lalu memperbaiki cara kerja (milestone lebih kecil, pengingat) |
-| Agreement, Action & Relationship | 4 | Shared problem statement menghasilkan kesepakatan untuk menyusun masalah dan solusi bersama sejak awal, memperhatikan timeline, serta berlatih pitching minimal dua hari sebelum hari-H. Tindak lanjut untuk kompetisi berikutnya sudah dirumuskan, dan hasil pengerjaan lomba setelah kesepakatan ini disebut menjadi lebih efisien. |
+| Person & Character | 4 | Mengeksplorasi kondisi konkret *user* (fisik berlumur lumpur, silau matahari) dan menyingkirkan ego desainer yang hanya peduli keindahan grafis. |
+| Objective & State | 4 | Asumsi awal (visual dashboard) bergeser sepenuhnya menjadi state "Kebutuhan peringatan pasif" berdasarkan temuan empiris. |
+| Repertoire, Language & AI | 4 | Pendalaman dilakukan dengan mendengarkan kondisi lapangan secara terbuka. Proses perumusan *statement* memanfaatkan tinjauan AI agar steril dari penyebutan fitur. |
+| Response & Adaptation | 4 | Solusi diadaptasi drastis (pivot); membuang ide layar sentuh grafis beralih ke perancangan notifikasi berbasis audial/getar pasif. |
+| Agreement, Action & Relationship | 4 | *Problem statement* disepakati dengan perwakilan pengguna, dan secara aktif memandu perubahan arsitektur aplikasi Nusatani. |
 
-**Total:** 20 / 20
+**Total: 20/20 — Sangat Kompeten.**
 
-::: {.assessor-only}
-### Assessment dosen
+{{< include ../includes/evidence-template.md >}}
 
+***
+
+## Evidence Tambahan
+**Bukti Transkrip Observasi Kebutuhan Lapangan (Discovery):**
+> **[29/09/26, 13:10:05] Fayza:** nabila, gw mau nanya dong untuk riset UI UX gw. menurut lo kalo petani di lapangan dikasih dashboard aplikasi di HP yg isinya grafik kelembapan tanah, mereka bakal sering buka ga sih?
+> **[29/09/26, 13:14:20] Nabila:** hmm jujur kayanya ngga deh fay. lo bayangin aja mereka kan lagi nyangkul, tangannya belepotan lumpur, masa iya harus lap tangan dulu buat scroll HP?
+> **[29/09/26, 13:17:10] Fayza:** ohhh iya bener juga anjir, tangannya kotor ya.. trus kendala lainnya apa kira2 bil?
+> **[29/09/26, 13:19:40] Nabila:** cahaya matahari sih. di sawah kan panas mentereng, layar HP suka silau ga keliatan. mereka kynya butuh yg gaperlu dilihat langsung deh, pokoknya tau beres aja.
+> **[29/09/26, 13:21:05] Fayza:** oh paham paham, berarti sebenernya mereka butuh cara biar tau tanahnya kritis tanpa harus nyentuh layar ya? misal alert bunyi suara / geter keras doang gitu?
+> **[29/09/26, 13:22:15] Nabila:** yuppp exactly! yg penting fungsional tanpa nambah ribet kerjaan mreka.
+
+::: {.callout-note title="Penilaian Asesor"}
 **Skor:** - / 20
 **Evidence yang mendukung:** -
 **Prioritas perbaikan:** -

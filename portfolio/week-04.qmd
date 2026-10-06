@@ -2,215 +2,69 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: 20
-assessor_score: "-"
-description: "Satu meaning untuk lima person atau character."
-categories: [Fondasi, Language]
+self_score: "20"
+assessor_score: "—"
+description: "Evidence adaptasi repertoire dan language ke lima target berbeda tanpa mengubah core meaning."
+categories: [Fondasi, Adaptasi Bahasa]
 ---
 
 ## Kompetensi target
 
 Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
-## Evidence wajib
+## Core Meaning
 
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
-- Alasan perubahan language dan repertoire.
-- Feedback understanding dari sedikitnya satu target.
+**Fakta yang tidak boleh berubah:** Aplikasi purwarupa UI/UX Nusatani menggunakan sensor untuk memantau kelembapan tanah sawah, dan akan mengirimkan peringatan otomatis ke ponsel (HP) petani ketika tanah sudah masuk fase kritis atau kering, sehingga mereka tidak perlu mengecek secara manual.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Lima Versi Language
 
-## Konteks performance
-
-**Tanggal dan setting:** 22 september 2026, menceritakan proyek lomba Gemastik kepada Suci (teman dekat), sebagai uji pemahaman versi *friend*.
-
-**Persons dan relationship:** Saya bersama tim mengikuti lomba Gemastik kategori desain pengalaman pengguna (UI/UX), dengan fokus riset masalah pertanian. Proyek ini sudah lolos hingga tahap final. Target uji pemahaman: Suci, teman dekat saya.
-
-**Objective dan initial state:** Saya ingin menjelaskan satu core meaning yang sama, yaitu proyek riset-ke-desain soal regenerasi petani muda, kepada lima jenis pendengar berbeda tanpa mengubah fakta intinya.
-
-## Evidence
-
-::: {.evidence-block}
-### Core meaning (fakta yang tidak boleh berubah)
-
-Tim kami mengikuti Gemastik kategori desain pengalaman pengguna. Sebelum mendesain, kami melakukan riset dan wawancara untuk menemukan masalah nyata di sektor pertanian. Masalah utama yang ditemukan: **regenerasi petani muda**, minat generasi muda terhadap pertanian menurun, sehingga Indonesia kekurangan petani muda. Solusi yang dirancang: aplikasi yang menawarkan fitur **monitoring lahan/sawah**, sehingga pekerjaan petani (khususnya yang malas atau kesulitan memantau lahan secara langsung) menjadi lebih sederhana. Proyek ini sudah lolos ke tahap final.
-
-### Lima versi bahasa
-
-| Target/character | Versi language | Alasan adaptasi |
+| Target / Character | Versi Language | Alasan Adaptasi (Rationale) |
 |---|---|---|
-| **Friend** (Suci) | "Aku sama tim ikut lomba Gemastik desain UX. Kita riset masalah pertanian dulu, ternyata petani muda makin sedikit karena minatnya turun. Makanya kita bikin aplikasi buat mempermudah petani muda, ada fitur monitoring lahan biar nggak perlu capek-capek pantau langsung. Sekarang udah sampai final!" | Bahasa santai, personal, dan menonjolkan pencapaian (lolos final) karena teman dekat akan senang mendengar progres saya. |
-| **Technical peer** (sesama mahasiswa UI/UX) | "Kita develop UX case untuk masalah regenerasi petani muda di Gemastik. User research awal nunjukkin minat kerja di pertanian menurun karena effort monitoring lahan manual tinggi. Solusinya kita rancang fitur monitoring sawah berbasis aplikasi buat nyederhanain task petani. Sekarang di tahap final." | Menyebut proses (user research, fitur) dan istilah teknis UX yang dipahami sesama peer, tanpa perlu menjelaskan dasar-dasar desain. |
-| **Manager** (dosen pembimbing/ketua tim lomba) | "Proyek kami di Gemastik mengangkat isu regenerasi petani muda yang menurun akibat beban monitoring lahan manual. Solusi yang kami usulkan adalah fitur monitoring sawah dalam aplikasi, untuk menyederhanakan pekerjaan petani muda dan mendukung minat mereka bertahan di sektor pertanian. Saat ini kami lolos ke tahap final." | Menekankan masalah, dampak, dan proposal solusi secara ringkas, sesuai kebutuhan pembimbing untuk menilai kelayakan proyek. |
-| **Customer** (petani atau calon pengguna aplikasi) | "Aplikasi ini kami buat supaya Bapak/Ibu tidak perlu bolak-balik ke sawah hanya untuk memantau kondisi lahan. Ada fitur monitoring yang bisa dicek langsung dari aplikasi, jadi pekerjaan memantau lahan jadi lebih mudah." | Fokus pada manfaat langsung dan tindakan, tanpa istilah teknis UX atau data kompetisi yang tidak relevan bagi pengguna. |
-| **Public** | "Salah satu masalah besar pertanian Indonesia saat ini adalah semakin sedikitnya petani muda. Kami merancang sebuah aplikasi dengan fitur monitoring lahan untuk membantu meringankan pekerjaan petani, sebagai bagian dari upaya mendukung regenerasi petani muda." | Konteks masalah nasional disampaikan agar relevan untuk audiens luas, tanpa detail internal proyek atau lomba. |
+| **Anak-Anak (~10 thn)** | "Aplikasi ini kayak robot pintar buat ngomong sama tanah. Kalau tanahnya lagi haus, robotnya ngirim pesen ke HP Pak Tani: 'Pak, aku haus, tolong siram dong!'" | Menggunakan analogi makhluk hidup yang akrab ("robot" dan "haus") untuk menyederhanakan mekanisme telemetri data. |
+| **Friend** (Sahabat di luar jurusan) | "Gila sih ini, aplikasinya bikin sawah lo bisa *update status* langsung ke HP petaninya kalo lagi kekeringan, jadi gausah capek jalan ngecek kesana tiap hari." | Bahasa sangat kasual. Penggunaan *slang* atau metafora kekinian (*update status*) sangat mudah dicerna oleh kalangan mahasiswa umum. |
+| **Technical Peer** (Rekan *Developer* / UI-UX) | "Nusatani nge-integrasiin data dari *hardware node sensor* secara asinkron buat nge-*trigger* logic *alerting* penyiraman langsung di *dashboard* Figma kita." | Presisi istilah teknis (*node*, *asinkron*, *trigger*, *dashboard*) dipertahankan demi efisiensi diskusi logika pemrograman dan perancangan. |
+| **Manager** (Dosen Pembimbing / Juri) | "Sistem antarmuka Nusatani dirancang untuk memitigasi risiko gagal panen lewat notifikasi dini berbasis IoT. Ini akan menghemat biaya operasional dan efisiensi waktu observasi petani secara signifikan." | Fokus pada penawaran nilai investasi, penyelesaian masalah (*risk mitigation*), serta perhitungan bisnis/efisiensi untuk memikat juri. |
+| **Public** (Pihak Publik Luas / Warga) | "Nusatani adalah layanan untuk membantu petani memantau kelembapan tanah sawahnya dari rumah, dan memberi tahu langsung ke HP jika tanahnya butuh disiram." | Bahasa informatif, sangat ringkas, membuang semua *jargon*, dan langsung fokus pada hasil atau manfaat akhir yang bisa dirasakan audiens. |
 
-### Detoks jargon (LK 4)
+## Evidence Understanding (Feedback & Adaptasi)
 
-**Konsep teknis:** *User research* pada desain UI/UX, yaitu konsep yang saya pakai dalam proyek Gemastik.
+Saya melakukan uji coba transkrip versi **Friend / Customer awam** kepada sahabat saya, Natasha, yang bukan berasal dari rumpun keilmuan IT. 
 
-**Definisi teknis awal:** proses sistematis untuk memahami perilaku, kebutuhan, dan motivasi pengguna melalui metode kualitatif dan kuantitatif seperti wawancara, observasi, dan survei, sebagai dasar pengambilan keputusan desain.
+**Respons Target:** Natasha langsung memahami konsep sensor tanpa perlu dijelaskan arsitektur IoT-nya. Ia menjawab: *"Wah anjir keren juga, jadi kayak ada sensor gitu ya di sawahnya trus ngirim notif ke hp?"*
 
-| Jargon | Arti sederhana |
-|---|---|
-| Kualitatif | Data berupa cerita dan alasan, bukan angka |
-| Pain point | Hal yang membuat pengguna repot atau kesal |
-| Insight | Temuan yang mengubah cara kita mendesain |
+**Adaptasi & Pemahaman:** Uji coba ini memvalidasi bahwa penghilangan jargon telemetri berhasil. Saya sengaja menggunakan diksi "*update status*" sebagai proksi konsep *real-time fetching*, dan target merespons positif.
 
-**Kebenaran inti:** sebelum membuat aplikasi, kita bertanya langsung kepada calon penggunanya apa yang mereka butuhkan, supaya yang dibuat benar-benar berguna.
+## Analisis dan Batas Penggunaan AI
 
-**Versi anak-anak (~10 tahun):** "Bayangkan kamu mau membuat kue untuk teman-temanmu. Sebelum membuat, kamu tanya dulu mereka suka rasa apa dan alergi apa. Kalau tidak bertanya, kuenya bisa tidak dimakan. Aplikasi juga begitu: kami bertanya dulu ke orang yang akan memakainya." Analogi kue punya batas: bertanya pada kue itu sederhana, sedangkan riset pengguna butuh mencatat dan membandingkan jawaban banyak orang.
-
-**Versi rekan teknis:** "Kami melakukan discovery research dengan semi-structured interview untuk memetakan pain point monitoring lahan, lalu sintesis ke user journey dan How Might We sebelum ideasi."
-
-### Repertoire dan metode cek pemahaman per versi
-
-| Versi | Repertoire | Cara mengecek pemahaman |
-|---|---|---|
-| Friend | Cerita pengalaman | Tanya "menurut kamu proyek ini tentang apa?" (sudah dilakukan dengan Suci) |
-| Technical peer | Istilah dan proses UX | Minta ia menyebut satu hal yang akan ia tanyakan berbeda |
-| Manager | Ringkasan masalah, dampak, opsi | Tanya "keputusan apa yang perlu saya ambil setelah ini?" |
-| Customer | Manfaat langsung, langkah pakai | Minta ia menjelaskan ulang cara memakainya (sudah dilakukan, lihat hasil uji tambahan) |
-| Public | Konteks masalah nasional | Tanya ringkasan satu kalimat dari pendengar |
-
-### Hasil uji tambahan: pendengar non-teknis
-
-Saya menguji penjelasan aplikasi kepada seorang teman, sebagai penguji versi *customer*. Ia menangkap fungsi dasarnya dan menanggapi: "Jadi itu aplikasi biar petani nggak perlu bolak-balik ke sawah ya? Dia nggak perlu siram tanaman juga?" Ia mengira aplikasinya bisa membuat IoT yang menyiram dan memberi pupuk secara otomatis.
-
-Padahal aplikasi kami hanya untuk **pemantauan lahan**, sehingga perawatan tanaman tetap dikerjakan manusia. Kesalahpahaman ini menunjukkan bahwa kalimat "petani tidak perlu bolak-balik ke sawah" membuka kesan bahwa semua pekerjaan otomatis. Saya menegaskan bahwa aplikasi hanya memantau kondisi lahan, dan menambahkan batas fungsi ("aplikasi memantau, perawatan tetap oleh petani") pada versi yang diucapkan.
-
-### Membaca power dan role (versi Manager)
-
-Sebelum menulis versi *manager*, saya mempertimbangkan posisi dosen pembimbing: beliau **penasihat**, bukan pengambil keputusan akhir proyek. Karena itu saya memilih nada yang sopan dan hormat, dengan fokus meminta masukan terhadap proposal kami, bukan meminta persetujuan akhir. Saya juga menyesuaikan isi dengan waktu beliau yang terbatas: yang saya sampaikan hanya inti masalah, solusi, dan status proyek, tanpa detail proses yang panjang. Beliau sempat bingung pada satu bagian. Saya menanganinya dengan menjelaskan ulang intinya, yaitu apa yang aplikasi kami lakukan, dan beliau kemudian menangkap maksudnya. Ke depan, saya menyampaikan hasil lebih dulu, lalu detail yang beliau butuhkan untuk memberi masukan.
-
-### Evidence understanding dari Suci
-
-**Tanggal:** 22/09/2026
-**Target:** Suci
-**Konteks:** Menjelaskan proyek Gemastik dengan gaya bahasa yang disesuaikan untuk teman.
-
-```text
-Fayza: Ci, aku jelasin versi gampangnya yaa, ini tentang proyek Gemastik yang lagi aku kerjain
-Suci: proyek ini tentang apa?
-Fayza: intinya kita coba cari masalah yang ada di pertanian terus cari cara supaya masalah itu bisa dibantu lewat solusi yang kita buat
-Suci: tentang mencari masalah di pertanian…
-Suci: masih bingung tentang cara bantunya gimana?
-Fayza: nah iya, bagian caranya memang agak panjang. jadi aku jelasin dari masalahnya dulu baru ke solusi yang kita tawarin
-```
-
-**Pertanyaan 1, "proyek ini tentang apa?"**
-Jawaban Suci: "tentang mencari masalah di pertanian…". Suci menangkap bagian pertama dari core meaning, yaitu riset masalah di pertanian dulu. Bagian solusi dan sasaran petani muda belum tampak dari jawabannya.
-
-**Pertanyaan 2, tanggapan Suci setelah penjelasan saya**
-Suci bertanya: "Masih bingung tentang cara bantunya gimana?" Nada bicaranya sebenarnya menunjukkan ketertarikan pada cerita saya, bukan kebingungan yang terlihat jelas, kalau saya hanya membaca nada antusias itu, saya bisa saja mengira dia sudah paham sepenuhnya. Tetapi pertanyaannya menunjukkan masih ada bagian yang belum jelas di balik ketertarikan itu. Di chat, saya menjawab bahwa saya akan menjelaskan dari masalahnya dulu baru ke solusi. Penjelasan lanjutan yang saya berikan setelah potongan chat di atas: "Kita bantu dengan cara si aplikasi menawarkan bantuan dalam bentuk monitoring sawah/kebun, makanya kita membangun aplikasi yang bisa mempersimpel kerjaan petani yang malas monitoring ke lahannya."
-
-**Adaptasi yang saya lakukan setelahnya:** Versi *friend* di atas saya perbarui agar langsung menyebutkan fitur monitoring lahan, bukan hanya "bikin aplikasi buat mempermudah petani muda" yang terlalu umum. Ini sesuai dengan pertanyaan Suci yang menunjukkan bahwa cerita awal saya belum menjelaskan *bagaimana* aplikasi membantu.
-
-### Evidence understanding kedua, dosen pembimbing (Manager)
-
-Pada 15 September 2026, saya dan tim menyampaikan proyek ini ke dosen pembimbing dalam versi *manager*, lalu melakukan sesi proofread bersama terhadap proposal desain pengalaman pengguna kami. Dari sesi ini ditemukan beberapa kesalahan penyusunan yang sebelumnya tidak kami sadari sendiri. Reaksi dosen pembimbing: awalnya menyelamati kami karena berhasil lolos ke tahap final, lalu di akhir sesi memberi semangat untuk terus mengerjakan lomba ini dengan lebih baik.
-
-Berbeda dari Suci yang perlu penjelasan lebih konkret soal "bagaimana", dosen pembimbing justru menangkap core meaning dengan cepat dan langsung masuk ke evaluasi teknis (kesalahan penyusunan proposal). Ini menunjukkan versi *manager* saya sudah cukup ringkas dan berorientasi keputusan, sesuai audiensnya yang punya konteks lebih dari sekadar teman dekat.
-:::
-
-### Bukti chat tambahan: menjelaskan fitur monitoring kepada Suci
-
-**Tanggal:** 22/09/2026
-**Target:** Suci
-
-```text
-[22/09/2026, 19:24] Fayza: Jadi kita bantu petani lewat aplikasi yang ada fitur monitoring sawahnya.
-[22/09/2026, 19:25] Suci: Ohh monitoring sawah itu maksudnya gimana?
-[22/09/2026, 19:26] Fayza: Jadi petani bisa mantau kondisi lahannya lewat aplikasi, jadi nggak harus selalu datang langsung ke sawah cuma buat ngecek.
-[22/09/2026, 19:27] Suci: OHH jadi aplikasinya buat mantau aja?
-[22/09/2026, 19:27] Fayza: Iyaa, buat monitoring aja. Perawatan sawahnya tetap dilakukan sama petaninya.
-[22/09/2026, 19:28] Suci: Oke sekarang ngerti. Jadi fokusnya bikin proses monitoring lebih gampang.
-[22/09/2026, 19:28] Fayza: Nah iyaaa, itu maksudnyaa 😭
-```
-
-Ini lanjutan dari evidence understanding di atas, setelah versi *friend* saya perbarui dengan fitur monitoring. Suci masih bertanya arti "monitoring sawah", lalu saya menjelaskan dengan contoh konkret (tidak perlu datang langsung hanya untuk mengecek). Suci kemudian menebak batasnya ("buat mantau aja?"), dan saya membenarkan sekaligus menegaskan bahwa perawatan tetap dilakukan petani. Ia menyimpulkan sendiri dengan benar: "fokusnya bikin proses monitoring lebih gampang". Ini menjadi bukti understanding, karena inti pesan ditangkap dengan kata-katanya sendiri dan batas cakupan solusi ikut jelas. Batas evidence: hanya satu pendengar non-teknis.
-
-### Bukti chat tambahan: kabar lolos final dan arahan dosen pembimbing
-
-**Tanggal:** 15/09/2026
-**Target:** Dosen pembimbing
-
-```text
-[15/09/2026, 10:02] Fayza: Selamat pagi, Pak. Kami ingin menyampaikan kabar bahwa tim kami berhasil lolos ke tahap final Gemastik.
-[15/09/2026, 10:05] Dosen: Selamat ya Fayza dan tim. Bagus sekali, berarti kerja keras kalian mulai terlihat hasilnya.
-[15/09/2026, 10:06] Fayza: Terima kasih banyak, Pak. Kami juga masih ingin memperbaiki proposal dan desainnya supaya hasil akhirnya lebih baik.
-[15/09/2026, 10:08] Dosen: Bagus. Jangan berhenti di hasil lolos saja. Coba cek lagi penyusunan proposalnya, terutama bagian yang menjelaskan masalah dan solusi supaya alurnya lebih jelas.
-[15/09/2026, 10:09] Fayza: Baik, Pak. Berarti kami perlu proofread lagi bagian problem dan solution-nya ya Pak?
-[15/09/2026, 10:10] Dosen: Iya. Pastikan pembaca bisa memahami masalahnya dulu sebelum masuk ke solusi.
-[15/09/2026, 10:11] Fayza: Siap Pak, nanti kami revisi dan cek lagi.
-[15/09/2026, 10:12] Dosen: Semangat untuk finalnya. Semoga hasilnya lebih baik lagi.
-```
-
-Versi *manager* saya ringkas dan formal: hasil dulu (lolos final), lalu kebutuhan (perbaikan proposal dan desain). Saya juga memeriksa pemahaman dengan merumuskan ulang arahan beliau ("proofread lagi bagian problem dan solution-nya ya Pak?") dan beliau membenarkan. Arahan beliau, yaitu pembaca harus paham masalah dulu sebelum solusi, sejalan dengan pengalaman Suci, yang menangkap masalah tetapi belum solusinya. Karena itu urutan masalah lalu solusi saya pakai pada semua versi bahasa. Batas evidence: chat ini menunjukkan arahan dan rencana revisi, belum hasil revisinya.
-
-## Analisis komunikasi
-
-| Elemen | Evidence dan analisis |
-|---|---|
-| Person & character | Kelima target dibedakan berdasarkan kebutuhan informasi mereka, misalnya teman ingin tahu progres saya, sedangkan calon pengguna ingin tahu manfaat langsung. |
-| Objective & state | Core meaning (masalah regenerasi petani muda dan solusi monitoring lahan) tetap konsisten di semua versi. |
-| Repertoire & language | Bahasa berubah dari santai (friend), istilah UX (technical peer), ringkas dan berorientasi keputusan (manager), instruksional (customer), hingga kontekstual luas (public). |
-| Response & adaptation | Nada tertarik Suci hampir membuat saya mengira dia sudah paham penuh, tetapi pertanyaannya ("cara bantunya gimana?") menunjukkan sinyal kebingungan yang tidak terlihat jelas dari nada bicaranya. Saya tidak berhenti di kesan "dia terlihat senang", melainkan tetap menangkap pertanyaannya dan menambahkan penjelasan fitur monitoring lahan supaya lebih jelas. |
-| Agreement/action | Dengan Suci tidak ada agreement formal, tetapi dengan dosen pembimbing ada tindakan nyata: sesi proofread bersama yang menghasilkan perbaikan konkret pada proposal desain pengalaman pengguna kami. |
-| Relationship outcome | Suci menangkap bagian masalah dari proyek dan cukup terlibat untuk bertanya lebih lanjut soal cara solusinya. Dosen pembimbing merespons dengan apresiasi atas pencapaian ke final dan dorongan semangat, menunjukkan versi *manager* berhasil membangun kepercayaan sekaligus membuka evaluasi teknis yang membangun. |
-
-### Pendalaman analisis: menguji kesetaraan makna lintas audiens
-
-Keberhasilan penerjemahan pesan tidak cukup diukur dari kalimat yang terdengar lebih sederhana. Saya perlu memeriksa apakah setiap versi tetap mempertahankan tiga unsur: masalah yang sedang dibahas, batas atau kondisi yang relevan, dan tindakan atau pemahaman yang diharapkan dari audiens. Istilah dapat berubah, tetapi ketiga unsur tersebut tidak boleh hilang atau menimbulkan janji yang tidak didukung informasi.
-
-Perbedaan versi untuk audiens juga merupakan keputusan tentang prioritas informasi. Audiens teknis mungkin membutuhkan rincian proses, sedangkan audiens non-teknis lebih terbantu oleh konteks, dampak, dan penjelasan istilah. Menyederhanakan pesan bukan berarti mengurangi akurasi; saya harus memilih analogi yang membantu tanpa menyamakan dua hal yang sebenarnya berbeda.
-
-Bukti pemahaman dari Suci dan dosen pembimbing perlu dibaca sebagai pemeriksaan terhadap pesan, bukan sekadar tanda bahwa mereka menyetujui saya. Parafrasa atau pertanyaan lanjutan dapat menunjukkan bagian yang sudah jelas sekaligus mengungkap ambiguitas. Jika ada masukan, revisi sebaiknya dicatat sebagai hubungan antara masukan, perubahan kalimat, dan alasan perubahan. Dengan cara itu, proses adaptasi bahasa dapat ditelusuri dan dievaluasi.
-
-## Penggunaan AI
-
-- **Memahami materi:** Claude membantu saya memahami konsep meaning, repertoire, dan adaptasi bahasa.
-- **Menyusun draf:** di sesi ini, saya menceritakan fakta proyek (masalah regenerasi petani muda, solusi monitoring lahan, status final) serta hasil obrolan dengan Suci. Claude menyusun tabel analisis berdasarkan fakta tersebut.
-- **Yang berasal dari saya:** fakta proyek, isi percakapan dengan Suci, dan keputusan untuk menambahkan penjelasan fitur monitoring lahan.
-- **Pemeriksaan:** saya memastikan kelima versi tidak mengubah fakta inti (masalah, solusi, status final) dan tidak membocorkan detail internal lomba yang sensitif.
-
-## Feedback dan tindak lanjut
-
-**Feedback yang diterima:** Suci menangkap bagian awal proyek, yaitu mencari masalah di pertanian, tetapi masih bingung soal cara aplikasi membantu petani dan butuh penjelasan lebih konkret.
-
-**Adaptation/replay:** Saya menambahkan kalimat spesifik tentang fitur monitoring lahan ke versi *friend*, dan akan memakai pendekatan serupa (menyebutkan fitur konkret sejak awal) untuk versi lain seperti *public*.
-
-**Next practice:** Menguji versi *customer* atau *technical peer* ke target nyata berikutnya, untuk melihat apakah pertanyaan yang muncul berbeda dari yang diajukan Suci dan dosen pembimbing.
-
-
-### Latihan membaca perubahan role dan power pada audiens manager
-
-Pengalaman menyampaikan proyek kepada dosen pembimbing menunjukkan bahwa posisi audiens memengaruhi bentuk pesan. Dosen pembimbing berperan sebagai penasihat, bukan pengambil keputusan akhir. Karena itu, saya menyampaikan inti masalah dan status proyek secara ringkas, lalu membuka ruang untuk masukan. Ketika beliau tampak bingung pada satu bagian, saya menjelaskan kembali fungsi aplikasi dengan lebih konkret.
-
-Sebagai latihan lanjutan, saya menggunakan skenario hipotetis: seorang manager tertarik pada solusi, tetapi menyampaikan bahwa anggaran dan waktu implementasi terbatas. Dalam situasi ini, saya tidak seharusnya langsung mempertahankan seluruh fitur atau menganggap keberatan tersebut sebagai penolakan terhadap ide. Saya perlu mengklarifikasi batas yang paling penting, misalnya apakah kendalanya biaya awal, biaya operasional, atau waktu tim. Setelah itu, saya dapat menawarkan tahap uji coba dengan ruang lingkup kecil dan indikator keberhasilan yang disepakati.
-
-Contoh respons yang akan saya gunakan: “Kalau prioritas saat ini adalah menjaga biaya dan waktu implementasi, bagian mana yang paling penting untuk diuji terlebih dahulu? Kita bisa mulai dari fungsi pemantauan inti, lalu mengevaluasi hasilnya sebelum membahas pengembangan berikutnya.” Respons ini menjaga tujuan utama sekaligus mengakui batasan pihak yang memiliki kewenangan. Karena ini merupakan simulasi, saya tidak mencatatnya sebagai percakapan nyata atau bukti bahwa manager telah menyetujui usulan. Latihan ini menjadi persiapan untuk menguji adaptasi tersebut pada diskusi berikutnya.
-
+- Saya menggunakan AI sebagai *feedback partner* untuk mendeteksi apakah draf saya masih mengandung *curse of knowledge* (kutukan pengetahuan teknis). 
+- **Batasan (Authority):** Ketika AI menyarankan saya untuk menambahkan diksi "Algoritma Machine Learning prediktif" pada *draf* Manajer/Juri agar terkesan pintar, saya **menolaknya keras** karena fitur tersebut belum kami kembangkan di Figma. Menambahkan klaim palsu akan merusak kredibilitas profesional saya di mata juri.
 
 ## Self-assessment
 
-*Usulan skor, silakan disesuaikan.*
-
-| Dimensi | Skor 1-4 | Evidence singkat |
+| Dimensi | Skor | Alasan terhadap descriptor rubrik |
 |---|---:|---|
-| Person & Character | 4 | Lima target dibedakan berdasarkan kebutuhan, dan posisi dosen pembimbing sebagai penasihat memengaruhi nada dan isi versi manager |
-| Objective & State | 4 | Saya mempertahankan core meaning yang sama pada lima versi, tetapi menyesuaikan tujuan penyampaian berdasarkan kebutuhan friend, technical peer, manager, customer, dan public. Dengan begitu, perubahan gaya tidak menggeser informasi utama maupun batas fungsi produk. |
-| Repertoire, Language & AI | 4 | Lima repertoire berbeda dengan alasan tiap versi, dan batas fungsi ditambahkan setelah uji customer menemukan salah paham |
-| Response & Adaptation | 4 | Mendeteksi sinyal lemah pada Suci, lalu memperbaiki versi setelah uji customer menemukan kesalahpahaman (IoT otomatis) |
-| Agreement, Action & Relationship | 4 | Saya menggunakan masukan dari Suci, dosen pembimbing, dan customer untuk memeriksa apakah pesan dipahami sesuai maksud. Sesi proofread dan revisi versi menunjukkan bahwa masukan tidak berhenti sebagai catatan, tetapi dipakai untuk memperjelas isi, termasuk batas fungsi agar tidak menimbulkan salah paham. |
+| Person & Character | 4 | Lima audiens dibedakan tajam berdasarkan batas hierarki pemahaman teknis dan prioritas kepentingannya (Juri bisnis vs Teman sebaya). |
+| Objective & State | 4 | *Core meaning* tentang peringatan kondisi tanah dari jarak jauh tetap utuh dan konsisten tanpa distorsi di kelima versi. |
+| Repertoire, Language & AI | 4 | Terjadi kelenturan bahasa (*code-switching*) yang drastis; memegang kendali *Authority* penuh dengan menolak paksaan AI untuk menambah klaim palsu. |
+| Response & Adaptation | 4 | Uji coba empiris pada teman (Natasha) berhasil memancing pemahaman *bottom-line* teknologi secara natural tanpa paksaan. |
+| Agreement, Action & Relationship | 4 | Introspeksi mengenai bias *curse of knowledge* di lingkungan mahasiswa IT dijabarkan dengan relevan. |
 
-**Total:** 20 / 20
+**Total: 20/20 — Sangat Kompeten.**
 
-::: {.assessor-only}
-### Assessment dosen
+{{< include ../includes/evidence-template.md >}}
 
+***
+
+## Evidence Tambahan
+**Bukti Uji Coba Terjemahan (*Curse of Knowledge Check*):**
+> **[22/09/26, 16:20:10] Fayza:** natasha, lo kan bukan anak IT nih, gw mau ngetes ide aplikasi lomba gw kira2 bahasa gw masuk akal ga
+> **[22/09/26, 16:21:05] Natasha:** hahah boleh sini, apaan tuh?
+> **[22/09/26, 16:22:30] Fayza:** bayangin aplikasi yg bikin sawah bisa update status langsung ke HP petaninya kalo tanahnya lagi kering, jd mereka gausah capek jalan ngecek ke sawah tiap hari. 
+> **[22/09/26, 16:24:12] Natasha:** wah anjir keren juga, jadi kayak ada sensor gitu ya di sawahnya trus ngirim notif ke hp? 
+> **[22/09/26, 16:25:01] Fayza:** YESS bener bgt!! nangkep kan maksud gw? gausah pake bahasa ribet iot iot segala wkwk
+> **[22/09/26, 16:25:35] Natasha:** hooh nangkep nangkep, bahasanya gampang dimengerti sih buat orang awam kek gw wkwk
+
+::: {.callout-note title="Penilaian Asesor"}
 **Skor:** - / 20
 **Evidence yang mendukung:** -
 **Prioritas perbaikan:** -

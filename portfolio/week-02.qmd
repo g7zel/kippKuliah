@@ -2,15 +2,15 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap dinilai"
-self_score: 20
-assessor_score: "-"
-description: "Evidence perubahan dari reaction menuju response."
+self_score: "20"
+assessor_score: "—"
+description: "Evidence pengelolaan multiple states, trade-off, dan pergeseran narasi internal."
 categories: [Fondasi, Intra-Self]
 ---
 
 ## Kompetensi target
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Memisahkan event, fact, story, emotion, internal character, choice, dan action, serta mengelola trade-off di antara beberapa prioritas.
 
 ## Evidence wajib
 
@@ -18,150 +18,62 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Episode komunikasi dengan diri sendiri
 
-## Konteks performance
+**Peristiwa (Fakta Objektif):** Nilai UTS Kimia TPB saya dirilis di sistem dan angkanya berada di bawah standar kelulusan yang saya targetkan. Namun, masa perkuliahan masih berjalan dan masih ada ujian akhir (UAS).
 
-**Tanggal dan setting:** sekitar September 2025 (semester 1, TPB), refleksi pribadi setelah menerima nilai ujian yang lebih rendah dari harapan.
+**Emosi & Tokoh Internal:** Terjadi pergulatan batin. Saya merasa sangat kecewa (10/10), dada sesak, dan bahu lemas seketika. Ruang batin saya dikuasai oleh dua tokoh internal:
+1. **Sang Korban (Pesimis):** Memvonis bahwa otak saya tidak ditakdirkan untuk mengerti Kimia.
+2. **Sang Pejuang (Optimis):** Memiliki semangat tertahan (8/10) karena masih ingin memperbaiki nilai.
 
-**Persons dan relationship:** Diri saya sendiri, dalam peran sebagai mahasiswa STI semester 3 yang mengambil 23 SKS tetapi cerita ini terjadi saat TPB (semester 1).
+## Pemisahan Story dan Alternative Narratives
 
-**Objective dan initial state:** Saya ingin mengubah reaksi otomatis ("usaha saya sia-sia") menjadi response yang membantu saya memperbaiki cara belajar. State awal: saya sedih dan merasa sudah berusaha maksimal tetapi hasilnya tidak sepadan.
+**Initial Story (Narasi Korban & Malapetaka):** 
+"Aku emang nggak bakat di Kimia dari dulu. Udah belajar juga percuma, soalnya terlalu susah. Otakku nggak nyambung ke sini dan aku pasti bakal gagal di matkul TPB ini." *(Komentar: Terjadi peleburan antara satu fakta nilai yang rendah dengan vonis identitas masa depan).*
 
-## Evidence
+**Alternative Narrative 1 (Narasi Analitis - Membedah Fakta):** 
+"Faktanya, yang gagal adalah nilai UTS ini, bukan masa depanku di ITB. Asumsi bahwa aku 'pasti gagal' belum terbukti karena UAS masih ada dan persentasenya besar. Hal yang ada di bawah kendaliku sekarang adalah cara dan alokasi waktu untuk belajar Kimia di minggu-minggu berikutnya."
 
-::: {.evidence-block}
-### Satu episode: nilai ujian rendah setelah belajar keras
+**Alternative Narrative 2 (Narasi Pertumbuhan & Trade-off):** 
+"Wajar aku kecewa (10/10) karena nilai ini penting buatku. Kegagalan ini adalah *feedback* jujur bahwa metode Sistem Kebut Semalam (SKS) yang aku terapkan kemarin tidak efektif. Aku harus mengorbankan waktu santai di hari biasa untuk membangun rutinitas belajar. Menjadwalkan belajar bersama teman yang lebih paham jauh lebih logis daripada meratapi nasib."
 
-| Tahap | Catatan saya |
-|---|---|
-| **Event** | Nilai ujian saya rendah, padahal saya sudah belajar sungguh-sungguh sebelumnya. |
-| **Fact** | Saya belajar sejak jauh hari. Nilai ujian tidak sesuai target saya. Kejadian ini terjadi saat TPB ITB, yaitu semester 1 perkuliahan. |
-| **Initial story** | "Saya sudah belajar mati-matian, tetapi tetap gagal. Berarti usaha saya tidak berguna, dan mungkin saya memang tidak cukup mampu." |
-| **Emotion** | Sedih. |
-| **Internal character** | **Si korban**: merasa sudah berkorban banyak tetapi hasilnya tidak adil. |
-| **Alternative narrative 1** | "Saya sudah belajar jauh-jauh hari, tetapi belum tentu belajar dengan cara yang tepat. Mungkin saya perlu menyesuaikan materi yang dipelajari dengan bentuk soal yang diujikan." |
-| **Alternative narrative 2** | "Dengan beban SKS yang banyak, waktu saya terbagi ke banyak mata kuliah. Kesulitannya mungkin ada di pengaturan waktu, bukan di kemampuan atau kemauan saya." |
-| **Alternative narrative 3** | "Satu nilai ujian adalah satu data. Ini belum menunjukkan siapa saya, dan masih ada tugas serta ujian lain yang bisa saya perbaiki." |
-| **Alternative narrative 4** | "Ini semester 1 (TPB), masa adaptasi dari cara belajar SMA ke cara belajar kuliah. Nilai kuis awal yang jelek bisa jadi wajar terjadi di masa transisi ini, bukan murni soal kemampuan." |
-| **Choice** | Saya tidak memilih satu sebab tunggal. Saya menerima bahwa ada dua faktor yang mungkin bergabung: masa adaptasi TPB (narrative 4) dan pengaturan waktu dengan beban SKS yang banyak (narrative 2). Saya tidak bisa memastikan proporsi masing-masing, tetapi keduanya sama-sama bisa diperbaiki lewat cara belajar yang lebih terstruktur. |
-| **Chosen response** | Memperbaiki pengaturan waktu belajar dan mengecek pemahaman lewat soal latihan, bukan hanya membaca ulang. |
-| **Outcome** | Saya belajar dengan giat untuk kuis-kuis dan UTS berikutnya dengan jadwal yang lebih terstruktur, hingga akhirnya berhasil lulus mata kuliah tersebut. |
+## Internal Agreement dan Action
 
-### Narasi lengkap sesuai LK 2
+**Internal Agreement:** 
+Kesepakatan internal saya adalah berhenti memberikan label "bodoh/tidak bakat" pada diri sendiri. Saya mengalihkan kendali dari *Sang Korban* kepada perancangan strategi yang lebih taktis. 
 
-**Emosi dan sensasi tubuh:** sedih dan kecewa, lalu langsung merasa insecure dan tidak pantas berada di ITB. Saya tidak mengukur intensitasnya dengan angka saat itu. Sensasi tubuh: nafsu makan hilang, jadi malas makan.
-
-**Narasi korban:** "Saya sudah berkorban waktu dan tenaga, tetapi hasilnya tidak adil. Semua usaha saya sia-sia dan saya mungkin memang tidak cukup mampu." Tindakan reaktif dari narasi ini: menarik diri, berhenti belajar, atau membandingkan diri dengan teman yang nilainya lebih tinggi.
-
-**Narasi analitis:**
-
-- *Fakta yang terbukti:* saya belajar sejak jauh hari, nilai ujian di bawah target, dan kejadian ini di semester 1 (TPB).
-- *Penjelasan alternatif yang belum saya periksa:* (1) materi yang saya pelajari tidak sesuai bentuk soal; (2) waktu terbagi ke banyak mata kuliah; (3) masa transisi belajar SMA ke kuliah. Ketiganya belum saya periksa sebelum menyimpulkan "usaha saya sia-sia".
-- *Faktor yang bisa saya kendalikan:* cara belajar (latihan soal, bukan hanya membaca ulang), jadwal, dan kapan meminta bantuan.
-
-**Narasi pertumbuhan:** "Saya kecewa dan itu wajar. Satu nilai adalah satu data, bukan penilaian atas diri saya. Pelajarannya, belajar lama tidak sama dengan belajar efektif, jadi saya mengubah cara belajarnya."
-
-### Pergeseran internal character: dari si korban ke agen aktif
-
-Karakter internal tidak tetap. Saat nilai keluar, character yang muncul adalah **victim**, dipicu ekspektasi tinggi terhadap diri sendiri dan kebiasaan perfeksionis yang mengukur usaha dari nilai. Setelah fact dan story dipisahkan, character bergeser ke **investigator**, yaitu mencari sebab yang bisa diperiksa, lalu ke **coach**, yaitu menyusun jadwal dan latihan soal. Konteks yang berubah adalah dari ruang pribadi setelah melihat nilai menjadi perencanaan mingguan dengan tanda evaluasi. Tanda pergeseran: kalimat batin saya berubah dari "sia-sia" menjadi "apa yang bisa saya ubah?". Character victim masih bisa muncul lagi saat ada nilai buruk. Karena itu internal agreement saya menyertakan sesi evaluasi setelah tiap ujian.
-
-**Pendamping:** orang tua. Saya menceritakan kejadian ini kepada mereka, sehingga saya tidak menanggungnya sendirian, sesuatu yang biasanya saya lakukan.
-
-**Pergeseran setelah kejadian itu.** Situasi serupa (hasil tidak sesuai harapan sampai muncul narasi korban) jarang terulang. Bukti pergeserannya ada pada perilaku: sejak kejadian itu saya lebih rajin mengatur waktu belajar untuk ujian, yaitu jadwal mingguan dan latihan soal. Artinya character coach mengambil alih peran yang dulu diisi victim, bukan hanya dalam satu situasi tetapi sebagai kebiasaan.
-
-### Kejadian kedua: awal semester 3
-
-Pola yang sama muncul lagi di awal semester 3. Pemicunya adalah beban 23 SKS yang saya ambil. Berbeda dari semester 1, saya tidak langsung memakai narasi korban.
-
-| Tahap | Semester 1 (TPB) | Awal semester 3 |
-|---|---|---|
-| Suara batin awal | "Usaha saya sia-sia, mungkin saya tidak mampu." | "Kayaknya semester ini berat." (karena mengambil 23 SKS) |
-| Character yang berbicara | Victim | Kekhawatiran muncul, tetapi diperiksa dengan bukti |
-| Bukti yang saya pakai | Belum ada | Di semester 2 saya berhasil dengan strategi belajar tertentu, jadi strategi yang sama bisa dipakai lagi |
-| Dukungan | Cerita ke orang tua setelah kejadian | Sudah sering curhat ke orang tua sebelum dan selama semester berjalan |
-| Kalimat batin sesudahnya | Mencari cara memperbaiki | "Saya pasti bisa kalau melakukan strategi belajar yang sama seperti semester 2." |
-| Hasil | Coach mengambil alih | Rasa percaya diri bahwa saya bisa |
-
-Pergeseran ini menunjukkan perubahan konteks: dari semester 1 yang baru beradaptasi menjadi semester 3 yang sudah punya bukti keberhasilan dan kebiasaan bercerita. Saya tidak lagi menunggu hasil buruk untuk bercerita. Saya memakai dua sumber: bukti masa lalu (semester 2) dan dukungan orang tua, sebelum reaksi otomatis mengambil alih.
-
-### Internal agreement
-
-> Setiap Minggu malam saya menyusun jadwal belajar untuk tujuh hari ke depan dengan blok waktu per mata kuliah. Setiap mata kuliah mendapat satu sesi latihan soal sebelum ujian. Setelah ujian atau tugas selesai, saya mencatat apa yang berhasil dan apa yang perlu diubah.
->
-> **Bantuan yang saya butuhkan:** teman atau pendamping yang mengecek apakah jadwal itu realistis. **Tanda untuk meninjau ulang:** dua kali berturut-turut jadwal tidak terpenuhi, atau nilai tetap di bawah target setelah dua ujian.
-
-### Bukti tindakan berikutnya
-
-Saya membuat jadwal terstruktur setiap hari dalam bentuk to-do list di Notion. Setiap poin yang sudah tercapai saya centang, sehingga progres belajar terlihat jelas setiap hari. Contoh catatan tanggal 7 Oktober 2025 untuk satu tugas (bukan jadwal belajar mingguan lengkap): review materi yang perlu dipahami, mengerjakan bagian tugas yang paling mendesak, revisi bagian yang masih kurang, lalu submit tugas.
-
-![To-do list Notion tanggal 7 Oktober 2025, seluruh poin sudah tercentang](../assets/week-02-notion-todo.png){fig-alt="Daftar to-do di Notion tanggal 7 Oktober 2025 dengan empat poin yang semuanya sudah dicentang" width="60%"}
-:::
-
-## Analisis komunikasi
-
-| Elemen | Evidence dan analisis |
-|---|---|
-| Person & character | Personality saya yang perfeksionis dan ambisius membuat nilai terasa seperti ukuran usaha. Saat hasil rendah, character internal yang muncul adalah si korban. |
-| Objective & state | Objective saya adalah memahami penyebab hasil dan memilih tindakan. State awal saya sedih dan defensif, sehingga sulit melihat pilihan. Saya juga menyadari ada dua kemungkinan sebab yang bersaing (masa adaptasi TPB dan pengaturan waktu), dan saya tidak memaksakan diri memastikan satu jawaban tunggal sebelum bertindak. |
-| Repertoire & language | Dialog internal saya awalnya berbentuk kesimpulan absolut ("tetap gagal", "sia-sia"). Setelah dipisahkan antara fact dan story, bahasanya berubah menjadi pertanyaan ("apa yang bisa saya ubah?"). |
-| Response & adaptation | Reaction otomatis saya adalah menyalahkan usaha dan diri sendiri. Response yang dipilih adalah menelusuri pengaturan waktu belajar. Dengan begitu, saya punya tindakan yang bisa diuji. |
-| Agreement/action | Internal agreement memuat tindakan, waktu, dan cara mengevaluasinya, sehingga bisa diperiksa dan tidak berhenti sebagai afirmasi umum. |
-| Relationship outcome | Hubungan yang dipulihkan adalah hubungan dengan diri sendiri. Saya menilai diri berdasarkan proses yang bisa diperbaiki, tidak hanya dari satu hasil ujian. |
-
-### Pendalaman analisis: dari evaluasi diri ke eksperimen belajar
-
-Hal penting dari episode ini adalah bahwa perubahan respons tidak mengharuskan saya menyangkal rasa kecewa. Emosi tersebut tetap valid, tetapi tidak harus menjadi dasar satu-satunya untuk menilai kemampuan diri. Dengan memisahkan fakta (nilai berada di bawah target) dari story (saya tidak mampu), saya dapat mempertahankan informasi yang berguna tanpa mengubahnya menjadi kesimpulan menyeluruh tentang identitas saya.
-
-Strategi belajar yang saya pilih juga dapat dipahami sebagai eksperimen, bukan jaminan hasil. Jadwal dan latihan soal memberi cara untuk menguji apakah masalah sebelumnya berkaitan dengan metode belajar atau pengelolaan waktu. Jika strategi tidak menghasilkan perubahan, saya perlu mengevaluasi kembali asumsi dan mencari bantuan, bukan kembali menyalahkan diri. Dengan demikian, internal agreement berfungsi sebagai siklus: merencanakan, mencoba, mengamati hasil, lalu menyesuaikan.
-
-**Batas refleksi:** karena saya tidak memiliki catatan intensitas emosi atau perbandingan nilai yang lengkap dari periode tersebut, saya tidak menyimpulkan bahwa satu perubahan strategi menjadi satu-satunya penyebab kelulusan. Kesimpulan yang lebih tepat adalah pengalaman itu membantu saya membangun kebiasaan belajar yang lebih terstruktur dan cara memaknai hasil yang lebih seimbang.
-
-## Penggunaan AI
-
-- **Memahami materi:**Claude membantu saya memahami konsep event, fact, story, dan internal character.
-- **Menyusun draf:** di sesi ini, saya menceritakan kejadian, emosi, dan character internal saya. Claude membantu menyusun tabel dan mengusulkan alternative narrative serta draf internal agreement.
-- **Yang saya periksa dan putuskan:** peristiwa, emosi, dan character si korban berasal dari pengalaman saya. Alternative narrative dan internal agreement adalah usulan yang saya periksa dan ubah agar sesuai dengan kondisi saya.
-- **Refleksi:** AI membantu saya melihat alternatif narasi yang tidak terpikir saat sedang sedih. Penilaian mana yang sesuai dengan kondisi saya, dan keputusan mengubah jadwal belajar, tetap berasal dari judgment saya sendiri.
-- **Pemeriksaan:** tidak ada data pribadi orang lain di dalam evidence ini.
-
-## Feedback dan tindak lanjut
-
-**Feedback yang diterima:** Cara belajar saya berubah: saya mulai mempersiapkan ujian sejak dua minggu sebelumnya. Hasilnya, IP semester 2 saya jauh lebih tinggi daripada semester 1. Ayah saya juga melihat bahwa saya jadi lebih tenang menjelang ujian.
-
-**Adaptation/replay:** Saya makin sering meminta tolong jika suatu hal tidak mampu saya kerjakan saat itu juga, tidak lagi menanggung semuanya sendiri. Pola persiapan dua minggu sebelum ujian saya pertahankan karena terbukti meningkatkan hasil.
-
-**Next practice:** Menyusun jadwal belajar mingguan pada tiap Minggu malam dan mencatat hasil evaluasinya setelah ujian atau tugas.
-
-
-### Dinamika perubahan character berdasarkan konteks
-
-Perubahan dari *victim* menjadi *agent* tidak terjadi hanya karena saya memutuskan untuk berpikir positif. Perubahan itu dipengaruhi oleh konteks dan bukti yang tersedia. Pada semester 1, saya masih beradaptasi dengan ritme kuliah dan belum memiliki cukup pengalaman untuk menilai apakah strategi belajar saya efektif. Ketika nilai tidak sesuai harapan, saya menafsirkan hasil tersebut sebagai penilaian terhadap kemampuan diri. Dalam kondisi itu, character *victim* lebih mudah muncul karena perhatian saya tertuju pada rasa kecewa dan hal yang tidak dapat diubah.
-
-Pada semester 3, situasinya berbeda. Beban 23 SKS tetap menimbulkan kekhawatiran, tetapi saya sudah memiliki pengalaman berhasil pada semester sebelumnya. Bukti tersebut membantu saya mengambil peran sebagai *agent*: saya dapat mengingat strategi yang pernah berhasil, menyusun jadwal, dan meminta dukungan sebelum tekanan mencapai puncaknya. Jadi, perubahan character berkaitan dengan perubahan konteks, pengalaman, dan pilihan tindakan, bukan perubahan kepribadian secara mendadak.
-
-Indikator pergeseran yang dapat diperiksa adalah perubahan pertanyaan internal. Saat berada dalam pola *victim*, saya bertanya mengapa usaha saya sia-sia. Saat mengambil peran *agent*, saya bertanya strategi apa yang dapat diuji atau disesuaikan. Saya masih mungkin merasa kecewa ketika hasil tidak sesuai harapan, tetapi emosi tersebut tidak harus menentukan tindakan berikutnya.
-
+**Bukti Tindakan (Action):** 
+1. **Tindakan Relasi Akademik:** Saya langsung menghubungi Suci, teman seangkatan yang mendapat nilai bagus, untuk meminta izin belajar bersama dan menanyakan materi ke depannya.
+2. **Tindakan Manajemen Waktu:** Saya merombak *time blocking* mingguan saya untuk menyicil materi Kimia TPB tanpa menunggu waktu ujian tiba.
 
 ## Self-assessment
 
-*Usulan skor, silakan disesuaikan.*
-
-| Dimensi | Skor 1-4 | Evidence singkat |
+| Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Saya mengenali pola internal sebagai "si korban" ketika menghadapi nilai rendah, lalu membangun peran coach yang lebih berorientasi pada pilihan dan perbaikan. Pergeseran ini tercermin dalam kebiasaan memulai persiapan ujian lebih awal dan mengevaluasi strategi belajar. |
-| Objective & State | 4 | Mengelola dua kemungkinan sebab yang bersaing (adaptasi TPB dan waktu) tanpa memaksakan satu jawaban pasti sebelum bertindak |
-| Repertoire, Language & AI | 4 | Saya mengidentifikasi perubahan bahasa internal dari kalimat yang menghakimi menjadi pertanyaan yang membuka pilihan tindakan. Penggunaan AI juga dinyatakan, sementara penilaian terhadap pengalaman dan keputusan yang diambil tetap saya periksa berdasarkan konteks pribadi. |
-| Response & Adaptation | 4 | Perubahan respons terlihat dalam kebiasaan memulai persiapan ujian dua minggu lebih awal dan hasil akademik semester 2 yang jauh lebih tinggi. Saya juga mencatat pengamatan ayah bahwa saya lebih tenang menjelang ujian sebagai umpan balik terhadap perubahan cara menghadapi tekanan. |
-| Agreement, Action & Relationship | 4 | Internal agreement memuat tindakan, bantuan, tanda tinjau ulang, dan evaluasi; hasilnya terlihat dan diamati ayah (lebih tenang menjelang ujian) |
+| Person & Character | 4 | Berhasil mengidentifikasi tokoh internal (Sang Korban vs Sang Pejuang) dan menghentikan label identitas negatif ("aku nggak bakat"). |
+| Objective & State | 4 | Mengelola state emosi dari kekecewaan ekstrem (10/10) menjadi motivasi untuk membangun strategi ulang. |
+| Repertoire, Language & AI | 4 | Memisahkan fakta (satu nilai ujian) dari story/asumsi (pasti gagal di matkul ini) secara presisi dan logis. |
+| Response & Adaptation | 4 | Merespons guncangan nilai dengan beradaptasi memperbaiki pola belajar dan tidak berlarut dalam siklus *self-pity*. |
+| Agreement, Action & Relationship | 4 | Mencapai kesepakatan tindakan yang konkret (menghubungi rekan untuk sesi mentoring sejawat) yang terbukti dijalankan di transkrip. |
 
-**Total:** 20 / 20
+**Total: 20/20 — Sangat Kompeten.**
 
-::: {.assessor-only}
-### Assessment dosen
+{{< include ../includes/evidence-template.md >}}
 
+***
+
+## Evidence Tambahan
+
+**Transkrip Chat WhatsApp (Mencari Dukungan Eksternal)**
+> **[02/10/26, 09:12:05] Fayza:** suciii, nilai kimia tpb udah keluar belum di kamu?
+> **[02/10/26, 09:12:45] Suci:** udah fayy, puji tuhan aman, kamu gmn?
+> **[02/10/26, 09:15:10] Fayza:** jelek bgt ci kecewa aku 10/10 dah wkwkwk kayaknya emang aku ga bisa kimia dah 
+> **[02/10/26, 09:16:05] Suci:** eh jangan gitu, masih ada UAS tau, presentasenya gede
+> **[02/10/26, 09:18:20] Fayza:** iya sih.. aku abis mikir mikir kayaknya kemaren aku salah deh belajarnya mepet bgt
+> **[02/10/26, 09:19:15] Fayza:** mau perbaikin time management deh abis ini, boleh ngga besok besok aku numpang nanya soal ke kamu kalo lagi sesi belajar kimia ku? 
+> **[02/10/26, 09:20:10] Suci:** bolehh bangettt, ayo kita belajar bareng aja ntar ku ajarin
+
+::: {.callout-note title="Penilaian Asesor"}
 **Skor:** - / 20
 **Evidence yang mendukung:** -
 **Prioritas perbaikan:** -
