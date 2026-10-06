@@ -64,6 +64,24 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 > **Fay:** "Oh iya juga, jadinya kita butuh waktu tambahan untuk menyamakan ide solusi dari tim kita ya."
 > **Aya:** "Betul! Makanya kita mepet deadline, karena kemarin saat pengerjaan revisiannya banyak banget."
 
+### Bukti chat: mengecek keraguan Kei
+
+**Tanggal:** 20/09/26
+**Target:** Kei
+
+```text
+[20/09/26, 16:02:11] Fayza: menurutku solusi yang paling cocok yang ini
+[20/09/26, 16:02:38] Kei: hmm, bisa sih... tapi aku kurang yakin kalau langsung pakai itu
+[20/09/26, 16:03:07] Fayza: bagian mana yang masih bikin ragu?
+[20/09/26, 16:03:42] Kei: takutnya kita malah menyelesaikan bagian yang bukan masalah utamanya
+[20/09/26, 16:04:13] Fayza: ohh berarti kita belum sepenuhnya sepakat soal masalah utamanya ya
+[20/09/26, 16:04:41] Kei: iya, kayaknya perlu dicek lagi
+[20/09/26, 16:05:09] Fayza: oke, kita samain dulu problem statement-nya sebelum pilih solusi
+[20/09/26, 16:05:32] Kei: nah itu lebih enak
+```
+
+Saya menangkap keraguan Kei sebelum berubah menjadi penolakan yang lebih besar. Daripada mempertahankan solusi saya, saya bertanya bagian mana yang membuatnya ragu, lalu mengecek kembali problem statement agar kami punya pemahaman yang sama sebelum memilih solusi.
+
 ### Lima pertanyaan discovery dan yang didengar
 
 | Pertanyaan | Yang saya dengar |

@@ -63,6 +63,24 @@ Situasinya sama: saya ingin menanyakan kejelasan tugas yang tenggatnya mepet.
 - **Sebagai teman kepada teman (Friends):** "Eh, tugas yang ini formatnya sama kayak kemarin nggak sih? Aku takut salah nih."
 
 Yang berubah adalah kata ganti, tingkat formalitas, dan panjang kalimat. Core meaning-nya tetap sama, yaitu saya butuh kejelasan agar tidak salah mengerjakan. Objective saya juga berbeda. Kepada dosen saya ingin terlihat sopan dan serius, sedangkan kepada teman saya ingin cepat dapat jawaban tanpa jarak.
+
+### Bukti chat: meminta bantuan kepada Asha
+
+**Tanggal:** 17/09/25
+**Target:** Asha
+
+```text
+[17/09/25, 19:12:04] Fayza: Sha, aku mau minta tolong dong
+[17/09/25, 19:12:21] Fayza: akhir-akhir ini tugas aku lumayan numpuk dan agak kewalahan
+[17/09/25, 19:13:02] Asha: kenapa? tugas yang mana?
+[17/09/25, 19:13:35] Fayza: yang tugas kuliah sama beberapa urusan lain
+[17/09/25, 19:14:01] Fayza: bisa bantu aku ngingetin buat ngerjain yang paling urgent dulu ga?
+[17/09/25, 19:14:26] Asha: bisa kok, kerjain yang deadline-nya paling deket dulu
+[17/09/25, 19:15:03] Fayza: okee makasih yaa
+[17/09/25, 19:16:12] Fayza: ternyata lebih ringan setelah aku ngomong daripada dipendem sendiri
+```
+
+Chat ini adalah contoh sebelum latihan di bawah dimulai (baseline): saya sudah mulai menyampaikan kebutuhan lebih awal, tidak menunggu sampai semuanya menumpuk, tetapi belum dilakukan secara konsisten, dan belum kepada keluarga. Respons Asha membantu saya menentukan tindakan yang lebih konkret, yaitu mengerjakan yang deadline-nya paling dekat lebih dulu.
 :::
 
 ### Kontras dua peran dan sasaran pertumbuhan (LK 1)
@@ -101,6 +119,35 @@ Yang berubah adalah kata ganti, tingkat formalitas, dan panjang kalimat. Core me
 **Trade-off yang saya kelola.** Saya tidak menolak tanggung jawab cuci piring. Saya mengajukan waktu pengganti (setelah sarapan) supaya tanggung jawab rumah tetap dijalankan, tetapi tidak bertabrakan dengan deadline. Permintaan saya berbentuk izin, bukan tuntutan, sehingga ayah punya ruang untuk menolak. Ayah menyetujui dan menyepakati waktu baru, jadi relasi tetap terjaga dan kesepakatannya jelas.
 
 **Review.** Saya menepati kesepakatan: piring dicuci setelah sarapan, sesuai waktu yang disetujui ayah. Kesepakatan ini berjalan karena saya menyebut kebutuhan lebih awal dan menawarkan waktu pengganti yang jelas, bukan menghindari tugas. Untuk ke depan, pola ini saya pertahankan (menyebut kebutuhan sebelum beban menumpuk dan menyebut kapan tanggung jawab akan dipenuhi).
+
+### Bukti chat tambahan: kebiasaan slow respon dan retro tim
+
+**Chat 1, 29/09/2026, target: teman dekat.** Percakapan ini menjadi evidence untuk feedback "slow respon di online".
+
+```text
+[29/09/2026, 15:21] Teman: Za, kamu kalau chat emang suka lama bales ya 😭
+[29/09/2026, 15:23] Fayza: Iyaa maaf 😭 kadang aku baca terus mikir nanti dibales, malah kelupaan.
+[29/09/2026, 15:24] Teman: Kalau belum bisa bales langsung, bilang aja nanti dibales.
+[29/09/2026, 15:25] Fayza: Iyaa juga sih. Mulai sekarang kalau belum bisa jawab aku kasih kabar dulu.
+[29/09/2026, 15:26] Teman: Nah itu lebih enak, jadi orangnya nggak nungguin.
+[29/09/2026, 15:27] Fayza: Okee, aku coba biasain.
+```
+
+Saya mengakui pola saya (membaca, menunda, lalu lupa) tanpa membela diri, dan teman memberi saran konkret yang sama dengan sasaran pertumbuhan saya: memberi kabar singkat bila belum bisa membalas. Batas evidence: ini baru komitmen, belum bukti perubahan perilaku. Perubahannya perlu dicek pada chat berikutnya.
+
+**Chat 2, 29/09/2026, target: tim lomba (Kei dan Aya).** Character yang muncul adalah anggota tim yang memfasilitasi retro.
+
+```text
+[29/09/2026, 20:15] Fayza: Guys, sebelum lanjut lomba, kita retro bentar yuk. Menurut kalian kemarin bagian mana yang paling bikin lama?
+[29/09/2026, 20:17] Kei: Menurutku koordinasi. Kadang kita baru tahu ada bagian yang belum dikerjain pas udah deket deadline.
+[29/09/2026, 20:18] Aya: Aku setuju. Sama pembagian tugasnya kadang masih berubah-ubah.
+[29/09/2026, 20:19] Fayza: Berarti kita perlu pembagian tugas yang lebih jelas dari awal ya.
+[29/09/2026, 20:20] Kei: Iya, terus kasih deadline internal sebelum deadline asli.
+[29/09/2026, 20:21] Aya: Biar masih ada waktu kalau ada revisi.
+[29/09/2026, 20:22] Fayza: Okee, berarti next kita bikin deadline internal dan cek progress sebelum deadline utama.
+```
+
+Di sini saya membuka dengan pertanyaan, bukan menyimpulkan sendiri, lalu merangkum jawaban Kei dan Aya menjadi tindakan bersama (pembagian tugas jelas, deadline internal, cek progress). Ini sejalan dengan kebiasaan saya bertanya dulu sebelum memutuskan dan dengan latihan menyampaikan kebutuhan lebih awal, kali ini dalam konteks tim. Batas evidence: kesepakatan ini belum diuji pada deadline berikutnya.
 
 ## Analisis komunikasi
 

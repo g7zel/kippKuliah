@@ -95,7 +95,9 @@ Pergeseran ini menunjukkan perubahan konteks: dari semester 1 yang baru beradapt
 
 ### Bukti tindakan berikutnya
 
-Saya membuat jadwal terstruktur setiap hari dalam bentuk to-do list, ditulis tangan di kertas notes kecil yang selalu saya bawa ke mana-mana. Contohnya: "baca ulang materi bab 1-5", "kerjakan latihan minggu ke-6". Setiap poin yang sudah tercapai saya coret langsung di kertas itu, sehingga progres belajar terlihat jelas setiap hari.
+Saya membuat jadwal terstruktur setiap hari dalam bentuk to-do list di Notion. Setiap poin yang sudah tercapai saya centang, sehingga progres belajar terlihat jelas setiap hari. Contoh catatan tanggal 7 Oktober 2025 untuk satu tugas (bukan jadwal belajar mingguan lengkap): review materi yang perlu dipahami, mengerjakan bagian tugas yang paling mendesak, revisi bagian yang masih kurang, lalu submit tugas.
+
+![To-do list Notion tanggal 7 Oktober 2025, seluruh poin sudah tercentang](../assets/week-02-notion-todo.png){fig-alt="Daftar to-do di Notion tanggal 7 Oktober 2025 dengan empat poin yang semuanya sudah dicentang" width="60%"}
 :::
 
 ## Analisis komunikasi
